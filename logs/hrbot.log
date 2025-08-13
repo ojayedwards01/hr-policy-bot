@@ -1,0 +1,108 @@
+2025-07-30 15:48:36,013 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-30 15:48:46,792 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-30 15:48:47,389 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-30 15:48:47,415 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-30 15:52:43,322 - __main__ - INFO - Enterprise HR Bot application initialized
+2025-07-30 15:52:43,322 - __main__ - INFO - Starting Enterprise HR Bot system...
+2025-07-30 15:52:43,323 - __main__ - INFO - Initializing system components...
+2025-07-30 15:52:43,323 - __main__ - INFO - Initializing LLM...
+2025-07-30 15:52:44,183 - __main__ - INFO - Initializing embeddings...
+2025-07-30 15:52:55,331 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-30 15:53:02,535 - __main__ - INFO - Initializing unified API...
+2025-07-30 15:53:02,592 - __main__ - INFO - Loaded 1 documents
+2025-07-30 15:53:02,605 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-30 15:53:02,693 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-30 15:53:02,706 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-30 15:53:02,723 - __main__ - ERROR - Failed to initialize components: Failed to initialize unified API
+2025-07-30 15:53:02,723 - __main__ - ERROR - Failed to start HR Bot system: Failed to initialize unified API
+2025-07-30 15:53:02,724 - __main__ - INFO - Shutting down Enterprise HR Bot system...
+2025-07-30 15:53:02,724 - __main__ - INFO - Enterprise HR Bot system shutdown complete
+2025-07-30 15:53:02,724 - __main__ - ERROR - Application error: Failed to initialize unified API
+2025-07-30 15:58:26,474 - __main__ - INFO - Enterprise HR Bot application initialized
+2025-07-30 15:58:26,475 - __main__ - INFO - Starting Enterprise HR Bot system...
+2025-07-30 15:58:26,475 - __main__ - INFO - Initializing system components...
+2025-07-30 15:58:26,476 - __main__ - INFO - Initializing LLM...
+2025-07-30 15:58:27,803 - __main__ - INFO - Initializing embeddings...
+2025-07-30 15:59:40,649 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-30 15:59:48,647 - __main__ - INFO - Initializing unified API...
+2025-07-30 15:59:48,648 - src.core.query_processor - INFO - Enterprise Query Processor initialized
+2025-07-30 15:59:48,649 - src.core.retrieval_engine - INFO - Enterprise Retrieval Engine initialized
+2025-07-30 15:59:48,650 - src.core.hallucination_guard - INFO - Hallucination Guard initialized with strict verification
+2025-07-30 15:59:48,651 - src.core.response_generator - INFO - Enterprise Response Generator initialized
+2025-07-30 15:59:48,651 - src.core.enterprise_memory_manager - INFO - Enterprise Memory Manager initialized with hybrid strategy
+2025-07-30 15:59:48,652 - src.core.unified_api - INFO - Unified API initialized with enterprise components
+2025-07-30 15:59:48,657 - __main__ - INFO - Loaded 1 documents
+2025-07-30 15:59:48,669 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-30 15:59:49,332 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-30 15:59:49,352 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-30 15:59:49,472 - __main__ - INFO - Initializing interface handlers...
+2025-07-30 15:59:49,493 - __main__ - INFO - All components initialized successfully
+2025-07-30 15:59:49,493 - __main__ - INFO - Starting web server on 0.0.0.0:8000
+2025-07-30 15:59:49,524 - __main__ - INFO - Enterprise HR Bot system started successfully
+2025-07-30 15:59:49,525 - __main__ - INFO - Web interface available at http://0.0.0.0:8000
+2025-07-30 16:01:17,160 - __main__ - INFO - Received signal 2, initiating shutdown...
+2025-07-30 16:01:17,161 - __main__ - INFO - Shutting down Enterprise HR Bot system...
+2025-07-30 16:01:17,162 - __main__ - INFO - Enterprise HR Bot system shutdown complete
+2025-07-30 16:07:54,810 - __main__ - INFO - Enterprise HR Bot application initialized
+2025-07-30 16:07:54,811 - __main__ - INFO - Starting Enterprise HR Bot system...
+2025-07-30 16:07:54,811 - __main__ - INFO - Initializing system components...
+2025-07-30 16:07:54,811 - __main__ - INFO - Initializing LLM...
+2025-07-30 16:07:55,958 - __main__ - INFO - Initializing embeddings...
+2025-07-30 16:08:07,237 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-30 16:08:15,916 - __main__ - INFO - Initializing unified API...
+2025-07-30 16:08:15,917 - src.core.query_processor - INFO - Enterprise Query Processor initialized
+2025-07-30 16:08:15,917 - src.core.retrieval_engine - INFO - Enterprise Retrieval Engine initialized
+2025-07-30 16:08:15,918 - src.core.hallucination_guard - INFO - Hallucination Guard initialized with strict verification
+2025-07-30 16:08:15,919 - src.core.response_generator - INFO - Enterprise Response Generator initialized
+2025-07-30 16:08:15,919 - src.core.enterprise_memory_manager - INFO - Enterprise Memory Manager initialized with hybrid strategy
+2025-07-30 16:08:15,920 - src.core.unified_api - INFO - Unified API initialized with enterprise components
+2025-07-30 16:08:15,930 - __main__ - INFO - Loaded 1 documents
+2025-07-30 16:08:15,944 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-30 16:08:16,017 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-30 16:08:16,042 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-30 16:08:16,077 - src.core.retrieval_engine - INFO - Vectorstore loaded from ./src/store
+2025-07-30 16:08:16,101 - src.core.retrieval_engine - INFO - All retrievers initialized successfully
+2025-07-30 16:08:16,101 - src.core.unified_api - INFO - Unified API fully initialized and ready
+2025-07-30 16:08:16,102 - __main__ - INFO - Initializing interface handlers...
+2025-07-30 16:08:16,108 - src.interfaces.web_api - INFO - Web API Handler initialized
+2025-07-30 16:08:16,109 - __main__ - INFO - All components initialized successfully
+2025-07-30 16:08:16,109 - __main__ - INFO - Starting web server on 0.0.0.0:8000
+2025-07-30 16:08:16,112 - __main__ - INFO - Slack handler not enabled, skipping monitoring
+2025-07-30 16:08:16,113 - __main__ - INFO - Email handler not enabled, skipping monitoring
+2025-07-30 16:08:16,114 - __main__ - INFO - Enterprise HR Bot system started successfully
+2025-07-30 16:08:16,114 - __main__ - INFO - Web interface available at http://0.0.0.0:8000
+2025-07-30 16:18:00,364 - __main__ - INFO - Enterprise HR Bot application initialized
+2025-07-30 16:18:00,364 - __main__ - INFO - Starting Enterprise HR Bot system...
+2025-07-30 16:18:00,365 - __main__ - INFO - Initializing system components...
+2025-07-30 16:18:00,365 - __main__ - INFO - Initializing LLM...
+2025-07-30 16:18:01,257 - __main__ - INFO - Initializing embeddings...
+2025-07-30 16:18:15,189 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-30 16:18:25,094 - __main__ - INFO - Initializing unified API...
+2025-07-30 16:18:25,095 - src.core.query_processor - INFO - Enterprise Query Processor initialized
+2025-07-30 16:18:25,096 - src.core.retrieval_engine - INFO - Enterprise Retrieval Engine initialized
+2025-07-30 16:18:25,096 - src.core.hallucination_guard - INFO - Hallucination Guard initialized with strict verification
+2025-07-30 16:18:25,096 - src.core.response_generator - INFO - Enterprise Response Generator initialized
+2025-07-30 16:18:25,097 - src.core.enterprise_memory_manager - INFO - Enterprise Memory Manager initialized with hybrid strategy
+2025-07-30 16:18:25,097 - src.core.unified_api - INFO - Unified API initialized with enterprise components
+2025-07-30 16:18:25,103 - __main__ - INFO - Loaded 1 documents
+2025-07-30 16:18:25,114 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-30 16:18:25,222 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-30 16:18:25,235 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-30 16:18:25,253 - src.core.retrieval_engine - INFO - Vectorstore loaded from ./src/store
+2025-07-30 16:18:25,266 - src.core.retrieval_engine - INFO - BM25 keyword retriever initialized
+2025-07-30 16:18:25,267 - src.core.retrieval_engine - INFO - Ensemble retriever initialized
+2025-07-30 16:18:25,267 - src.core.retrieval_engine - INFO - All retrievers initialized successfully
+2025-07-30 16:18:25,267 - src.core.unified_api - INFO - Unified API fully initialized and ready
+2025-07-30 16:18:25,268 - __main__ - INFO - Initializing interface handlers...
+2025-07-30 16:18:25,275 - src.interfaces.web_api - INFO - Web API Handler initialized
+2025-07-30 16:18:25,276 - __main__ - INFO - All components initialized successfully
+2025-07-30 16:18:25,276 - __main__ - INFO - Starting web server on 0.0.0.0:8000
+2025-07-30 16:18:25,278 - __main__ - INFO - Slack handler not enabled, skipping monitoring
+2025-07-30 16:18:25,279 - __main__ - INFO - Email handler not enabled, skipping monitoring
+2025-07-30 16:18:25,279 - __main__ - INFO - Enterprise HR Bot system started successfully
+2025-07-30 16:18:25,280 - __main__ - INFO - Web interface available at http://0.0.0.0:8000
+2025-07-30 16:19:56,054 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-07-30 16:19:56,335 - src.interfaces.web_api - INFO - Web chat request processed successfully in 2.68s
+2025-07-30 16:21:55,158 - src.interfaces.web_api - INFO - Web chat request processed successfully in 0.84s
+2025-07-30 16:22:15,529 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-07-30 16:22:15,582 - src.interfaces.web_api - INFO - Web chat request processed successfully in 1.55s

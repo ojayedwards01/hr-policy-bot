@@ -1,0 +1,41 @@
+# Alpine-based Dockerfile for minimal HR Bot
+FROM python:3.11-alpine
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+# Install system dependencies
+RUN apk add --no-cache \
+    build-base \
+    curl \
+    && rm -rf /var/cache/apk/*
+
+# Set work directory
+WORKDIR /app
+
+# Copy requirements and install Python dependencies
+COPY requirements.txt .
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Copy only necessary files
+COPY run_app.py .
+COPY app.py .
+COPY src/ ./src/
+COPY documents/ ./documents/
+COPY static/ ./static/
+
+# Create non-root user
+RUN adduser -D app && chown -R app:app /app
+USER app
+
+# Expose port
+EXPOSE 8080
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
+    CMD curl -f http://localhost:8080/api/status || exit 1
+
+# Run the application
+CMD ["python", "app.py"] 

@@ -1,0 +1,39 @@
+# AWS Lambda Requirements - Optimized for ZIP deployment
+# ========================================================
+
+# Core LangChain (essential packages only)
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+
+# Vector Store
+faiss-cpu
+
+# Document Processing (essential only)
+beautifulsoup4
+PyMuPDF
+pandas
+numpy
+
+# Web Framework
+Flask
+Flask-CORS
+
+# Utilities
+requests
+python-dotenv
+tqdm
+html2text
+
+# Slack Integration (if needed)
+slack-sdk
+
+# AWS Lambda specific
+werkzeug
+
+# Remove heavy packages not needed for Lambda
+# gunicorn (not needed for Lambda)
+# (other heavy packages removed)
+

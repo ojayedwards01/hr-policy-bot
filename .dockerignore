@@ -1,0 +1,113 @@
+# ENHANCED .DOCKERIGNORE - Optimized for Size Reduction
+# ======================================================
+
+# Virtual environments
+bot/
+.venv/
+venv/
+env/
+env.bak/
+.venv.bak/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Git and version control
+.git/
+.gitignore
+.gitattributes
+
+# Documentation and development files
+*.md
+*.txt
+!requirements.txt
+!requirements_optimized.txt
+*.ipynb
+*.rst
+docs/
+README*
+
+# Testing and development
+tests/
+test_*
+*_test.py
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker and deployment files
+Dockerfile*
+docker-compose*
+.dockerignore
+.dockerignore.bak
+
+# Backup and temporary files
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (keep only what's needed)
+.env.local
+.env.development
+.env.test
+.env.production.local
+
+# Large data files that shouldn't be in image
+*.csv.bak
+*.json.bak
+*.pickle
+*.pkl.bak
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Backup directories
+backup/
+backups/
+temp/
+tmp/ 

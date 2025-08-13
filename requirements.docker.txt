@@ -1,0 +1,37 @@
+# OPTIMIZED DOCKER REQUIREMENTS - TARGET SIZE <1GB
+# ==================================================
+
+# CORE LANGCHAIN
+langchain-core
+langchain-groq
+langchain-community
+langchain-text-splitters
+
+# VECTOR STORE
+faiss-cpu
+
+# DOCUMENT PROCESSING
+beautifulsoup4
+PyMuPDF
+pandas
+numpy
+
+# WEB FRAMEWORK
+flask
+flask-cors
+gunicorn
+
+# INTEGRATIONS
+slack-sdk
+google-search-results
+
+# UTILITIES
+requests
+python-dotenv
+html2text
+tqdm
+
+# LIGHTWEIGHT EMBEDDINGS (NO PYTORCH)
+fastembed  # For FastEmbedEmbeddings
+scikit-learn  # Required by FastEmbed
+langchain-huggingface  # Required for fallback embeddings

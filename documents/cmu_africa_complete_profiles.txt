@@ -1,0 +1,2488 @@
+CMU AFRICA COMPLETE STAFF PROFILES
+============================================================
+Scraped on: 2025-07-24 11:52:53
+Total profiles: 128
+============================================================
+
+FACULTY
+=======
+
+1. João Barros
+--------------
+Basic Title: Associate Director and Research Professor, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/barros-joo.html
+Bio Available: Yes
+Contact Information:
+Phone
++250 793 671 563
+Email
+jbarros@andrew.cmu.edu
+
+Biography:
+João Barros is an electrical and computer engineer, university professor, academic leader and passionate entrepreneur, who loves to turn complex theorems and algorithms into technologies, products and services that can make a real difference in people’s lives. For the past 25 years, he has worked mostly on wireless networks and intelligent transportation systems with special emphasis on sensor networks, physical-layer security, network coding, vehicular networks and edge AI. Barros received his undergraduate education in electrical and computer engineering from the Universidade do Porto, Portugal and Universitaet Karlsruhe. He completed his Ph.D. in electrical engineering and information technology at Technische Universitaet Muenchen (TUM), Germany. At the Universidade do Porto, Portugal, he served as full professor and founding director of the Instituto de Telecomunicações - Porto and taught MBA-level courses at Porto Business School.
+
+Barros has held visiting appointments at MIT, Cornell and Stanford University. Between 2009 and 2012, Barros served as the national director of the CMU-Portugal program, a $77M research initiative of the Portuguese Government in partnership with Carnegie Mellon University. On the entrepreneurship side, Barros co-founded two venture-backed startups, Streambolico and Veniam, where he led the company as CEO for 10 years until the successful acquisition by Nexar Inc in August 2022. His last corporate position was Chief Platform Officer of Nexar.
+
+Barros is an IEEE Fellow and a twice Fulbright alumnus. His work has led to more than 180 science and technology papers, 22 international patents, a book published by Cambridge University Press, and feature articles by NPR, BBC, MIT Technology Review, the Atlantic, CNBC and TechCrunch, among others. His publications have received more than 12,000 citations, as well as numerous awards, including the 2010 IEEE Communications Society Young Researcher Award for the Europe, Middle East and Africa region, the 2011 IEEE ComSoC and Information Theory Society Joint Paper Award, CableLabs, Wireless broadband alliance, TU Automotive. He also received a state-wide best teaching award by the Bavarian State Ministry of Sciences, Research and the Arts.
+
+Barros holds a performing arts degree from the Music Conservatory of Porto, Portugal where he plays regularly with various music ensembles, including his wife and three sons.
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+================================================================================
+
+2. Tim Brown
+------------
+Basic Title: Professor, Electrical and Computer Engineering, Engineering and Public Policy
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/brown-tim.html
+Bio Available: Yes
+Contact Information:
+  Email: timxb@cmu.edu
+  Phone: +250 787 674 062
+
+Biography:
+Professor, Electrical and Computer Engineering, Engineering and Public Policy     		    		        		  Director, Kigali Collaborative Research Center Timothy X Brown is director of research and a professor in the Electrical and Computer Engineering and Engineering and Public Policy Departments at Carnegie Mellon University Africa in Rwanda. He is also director of the Kigali Collaborative Research Center. From 1995 to 2012 he was at the University of Colorado at Boulder, most recently as professor and director of the Interdisciplinary Telecommunications Program. He received his B.S. in physics from Pennsylvania State University and his Ph.D. in electrical engineering from the California Institute of Technology, after which he worked at the Jet Propulsion Laboratory and Bell Communications Research. His research interests include adaptive network control, machine learning, and wireless communication systems. His current research funding includes Master Card Foundation and other industry funders. He is a recipient of the NSF CAREER Award, and the GWEC Wireless Educator of the Year Award. CMU-Africa student Stephen Augustine is researching rainfall forecasting methodology that addresses food insecurity in Rwanda caused by shifting climates. CMU-Africa, CMU-Pittsburgh, and the non-profit TReND in Africa held a summer school focused on computational neuroscience and machine learning. Assistant Professor Destenie Nock and Professor Tim Brown won awards which recognize faculty who have displayed excellence in education and research. The 2023 Engineering Faculty Awards highlight faculty members who have shown outstanding educational, research, and service efforts. Congratulations to all of this year’s awardees! CMU-Africa, CMU-Pittsburgh, and global collaborators create an air quality testing center in Ghana with new funding from the Clean Air Fund. Afretec recently held its inaugural conference at CMU-Africa where it welcomed leadership from member universities across the continent. CMU-Africa and the Kigali Collaborative Research Centre are testing and deploying TEOM instruments to partners in Rwanda and throughout East Africa through AfriqAir to monitor air quality. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Moise Busogi
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/busogi-moise.html
+Bio Available: Yes
+Contact Information:
+  Email: mbusogi@andrew.cmu.edu
+  Phone: +250 781 667 420
+
+Biography:
+Moise Busogi received his bachelor’s degree in industrial and system engineering, with a minor in management science, in 2011 from Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea. He received his Ph.D. in system design and control engineering at Ulsan Institute of Science and Technology (UNIST), Republic of Korea in 2017. His Ph.D. focused on modeling and simulation of human-centered complex systems with a direct application to mixed-model assembly lines. During his doctorate, he worked with General Motors (GM) to assess and mitigate the increasing complexity in mixed-model assembly lines while maintaining the flexibility the assembly. He also worked on a number of industrial and government projects including the development of machine learning-based automated quality monitoring system for automotive door trim process. After his graduation, he joined the Center for 3D Advanced Additive Manufacturing where he worked a research associate for two years prior to joining CMU Africa. His research interest include operation research, machine learning, and agent based modeling and simulation. B.S., Industrial Systems and Engineering/minor, Management Science,  Korea Advanced Institute of Science and Technology (KAIST) Three CMU Engineering and Public Policy students spent part of their summer conducting research at CMU-Africa. They collaborated with educators and stakeholders there to integrate their research with the needs and expertise of the local community, and to strengthen ties between students in Pittsburgh and Kigali. In its second year running, CMU-Africa Week welcomed students from the land of a thousand hills to the city of bridges. Afretec has awarded 11 grants, each led by a multi-university research team, to build research capacity and work toward achieving the UN Sustainable Development Goals (SDGs) in Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+5. Ismaila Dabo
+---------------
+Basic Title: Professor, CMU-Africa, Materials Science and Engineering
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/dabo-ismaila.html
+Bio Available: Yes
+Contact Information:
+  Email: idabo@andrew.cmu.edu
+
+Biography:
+Professor, CMU-Africa, Materials Science and Engineering     		    		        		  Director of Strategic Graduate Initiatives, Materials Science and Engineering Ismaila Dabo holds a Ph.D. in materials science and engineering from the Massachusetts Institute of Technology, and B.S. and M.S. degrees from École Polytechnique, France. Before coming to Carnegie Mellon, he worked as a tenured associate professor in the Department of Materials Science and Engineering and the Department of Physics at the Pennsylvania State University with joint appointments in the Penn State Institutes of Energy and the Environment, and the Penn State Materials Research Institute. His awards include the Presidential Early Career Award for Scientists and Engineers (PECASE), Wilson Teaching Excellence Award, Montgomery-Mitchell Teaching Innovation Award, Corning Chair in Materials Science and Engineering, and the National Science Foundation Faculty Early Career Development Program (CAREER) Award. His research focuses on developing and applying predictive computational models and machine-learning methods to maximize the performance of materials for energy conversion and storage. His research stands at the frontier between materials science, condensed matter physics, applied mathematics, and computer science with the ultimate goal of breaking down the complexity of materials problems and guiding the development of energy technologies. Traditional heat-flow models are inadequate to predict behavior at the nanoscale level. A recent research analysis advocates for a combination of existing theories in order to improve the function and durability of electronic devices. Ismaila Dabo has received a Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor bestowed by the U.S. government on early career scientists and engineers. The newly discovered method of layering non-ferroelectric and ferroelectric materials could be applied to semiconductor and optoelectronic devices. Ismaila Dabo brings his computational research expertise to the materials science and engineering department at Carnegie Mellon, and to bolster the department's engagement at CMU-Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+6. Assane Gueye
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/gueye-assane.html
+Bio Available: Yes
+Contact Information:
+  Email: assaneg@andrew.cmu.edu
+  Phone: +250 784 157 516
+
+Biography:
+Associate Teaching Professor, CMU-Africa     		    		        		  Co-director, CyLab-Africa     		    		        		  Co-director, the Upanzi Network Assane Gueye joined Carnegie Mellon University Africa on August 1, 2020. Prior to joining CMU-Africa, he was a faculty member at the ICT Department at the University Alioune Diop of Bambey, Senegal, where he also leads the research group “Technologies de l’Information et de la Communication pour le Développement” (TIC4Dev). Gueye also holds a guest researcher position with the National Institute for Standards and Technology, Gaithersburg, Maryland, USA. Assane completed his Ph.D. in electrical engineering and computer sciences from UC Berkeley in March 2011. He received a master’s degree in 2004 in communication systems engineering from Ecole Polytechnique Fédérale de Lausanne, Switzerland. His research focuses in two main areas: performance evaluation and security of large-scale communication systems, and information and communication technologies for development (ICT4D). Assane is a Fellow of the Next Einstein Forum (Class of 2016). In 2019 he was nominated as a member of the European Alliance for Innovation (EAI) inaugural Fellow Class. CMU’s OSPO and the Upanzi Network spark a new partnership at the United Nation’s Reboot the Earth hackathon. CyLab’s Megan Kearns and CMU-Africa’s Assane Gueye were quoted in Dark Reading about new cybersecurity training initiatives in Africa. Competitions like picoCTF-Africa create accessible opportunities to grow cybersecurity talent. Carnegie Mellon University Africa’s Upanzi Network in collaboration with Approov have created APKIT, an accessible cybersecurity tool for financial technology developers. CMU-Africa’s Assane Gueye received the Cybersecurity Excellence Award in the category of Academia at the 2025 African Cybersecurity Summit, which is co-hosted by the Kingdom of Morocco, through the General Directorate of Information Systems Security (DGSSI), in collaboration with Smart Africa. Researchers from Carnegie Mellon University are developing an app called HumekaFL to detect birth asphyxia in newborn babies in developing countries. Researchers with the Upanzi Network have developed recommendations for the Digital Public Goods Alliance to increase transparency about users’ data privacy. CMU-Africa’s Upanzi Network was featured in mosip16.9 for their Digital ID Hackathon. The hackathons are part of a larger initiative to increase the technical capacity of participants, promote innovation, and foster the next generation of thinkers in the field of digital identity. The Upanzi Network will fund research projects in Morocco, Botswana, and South Africa, with plans for additional partnerships. Bernard Odartei Lamptey from CMU-Africa's Upanzi Network hopes to combat mobile money scam transactions by collecting more data about smishing in order to develop ways that users can protect themselves. The Upanzi Network and MicroSave Consulting (MSC) have launched a series of regional hackathons for African university students to identify new and innovative use cases of digital ID across the continent. As the presence of mobile phones becomes increasingly widespread in Africa, digital services have allowed for more financial inclusion among low- and middle-income countries within the continent. A group of Carnegie Mellon University researchers led by Karen Sowon, a postdoctoral researcher at CMU’s CyLab Security and Privacy Institute, investigated these issues and recently published a paper on "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania." Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+7. Associate Teaching Professor, CMU-Africa
+-------------------------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-associate.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+8. Co-director, CyLab-Africa
+----------------------------
+Basic Title: Co-director, the Upanzi Network
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cylabafrica-codirector.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+9. Edith Luhanga
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/luhanga-edith.html
+Bio Available: Yes
+Contact Information:
+  Email: eluhanga@andrew.cmu.edu
+
+Biography:
+Edith Luhanga joined CMU-Africa as a postdoctoral researcher in June 2021 and transitioned to assistant research professor in September 2022. Prior to that, she was a lecturer at the Nelson Mandela African Institution of Science and Technology in Tanzania (NM-AIST). She holds a Ph.D. in information science from Nara Institute of Science and Technology in Japan, an MSc in advanced computing science, and a BEng (Hons) in electronic and computer engineering from the University of Nottingham, UK. Luhanga’s research focuses on designing theory-based behavior change systems that consider people’s personal and socio-cultural contexts, through a human-centered approach. Her main domains of interest are health (particularly nutrition, maternal and child health, and disabilities management), financial inclusion, and privacy and security She was the deputy project leader for a 10-year project on capacity building through digital technologies at NM-AIST and served as Tanzania’s representative to the UNESCO intergovernmental committee on drafting recommendations on the ethics of artificial intelligence in 2021. Bernard Odartei Lamptey from CMU-Africa's Upanzi Network hopes to combat mobile money scam transactions by collecting more data about smishing in order to develop ways that users can protect themselves. As the presence of mobile phones becomes increasingly widespread in Africa, digital services have allowed for more financial inclusion among low- and middle-income countries within the continent. A group of Carnegie Mellon University researchers led by Karen Sowon, a postdoctoral researcher at CMU’s CyLab Security and Privacy Institute, investigated these issues and recently published a paper on "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania." CyLab faculty members and students presented their research on topics ranging from mobile money practices in Africa to uncovering and identifying side-channel and evasion attacks at the 45th Institute of Electrical and Electronics Engineers (IEEE) Symposium on Security and Privacy. Three CMU-Africa students presented their research projects to fellow scholars and industry leaders at IEEE Africon in September and IEEE ICMEA in November. CMU-Africa’s Ganesh Mani and Edith Luhanga presented at the UN’s 56th session of the Commission on Population and Development which took place on April 13, 2023. CMU-Africa’s Edith Luhanga recently won an Organization for Women in Science for the Developing World (OWSD) Early Career Fellowship, which will provide financial support to develop her research and professional and networking opportunities. Edith Luhanga, assistant research professor at CMU-Africa, was recently named a 2022 Next Einstein Forum award recipient. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+10. Assistant Research Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+11. Prasenjit Mitra
+------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mitra-prasenjit.html
+Bio Available: Yes
+Contact Information:
+  Email: prasenjit@cmu.edu
+  Phone: 2003-2024
+
+Biography:
+Prasenjit Mitra has background in artificial intelligence and big data analytics, including applied machine learning, natural language processing and text mining, information retrieval, and visual analytics. Mitra has published over 200 peer reviewed papers, some of which have been awarded best paper awards, including the Test of Time Award by the IEEE International Conference on Visual Analytics Science and Technology, the premier publication venue in visual analytics in 2021; in addition, his work has been highly cited (h-index 65, ~15,900 citations). He was one of the co-founders and the inaugural director of the Center for Socially Responsible Artificial Intelligence at the Pennsylvania State University, where he was a tenure-line professor from 2003-2024. From 2018-2021, he served as the Associate Dean for Research for the College of Information Sciences and Technology. He has also supervised numerous Ph.D. dissertations. His previous Ph.D. and post-doctoral students have held leading positions in companies such as Google, Alibaba, IBM Research, Facebook, Microsoft, Twitter, Trulia, Yahoo Research, LinkedIn, Yahoo, and Baidu. Others have successfully launched big data/AI startups and were in faculty positions at KAIST, the University of Illinois at Chicago, Kansas State University, and the University of North Texas. Mitra received his Ph.D. in electrical engineering from Stanford University, his M.S. in computer science from the University of Texas at Austin, and his B.Tech.(hons.) in computer science and engineering from the Indian Institute of Technology, Kharagpur, India. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+12. Research Professor, CMU-Africa
+---------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-research.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+13. Edwin Mugume
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mugume-edwin.html
+Bio Available: Yes
+Contact Information:
+  Email: emugume@andrew.cmu.edu
+  Phone: +256 784 031 622
+
+Biography:
+Edwin Mugume received the BSc degree in electrical engineering from Makerere University (First Class Honors), Uganda in 2007 and the MSc degree in communication engineering (with Distinction) from The University of Manchester, UK in 2011. He completed his Ph.D. in electrical and electronic engineering from The University of Manchester, UK in 2016. His Ph.D. focused on energy efficient deployment strategies for future highly dense heterogeneous cellular networks. His research interests lie in developing deployment strategies for green heterogeneous cellular networks, 5G network technologies, energy harvesting strategies, and stochastic geometry approaches to wireless network analysis. He also has industry experience including radio frequency planning and optimization of mobile cellular networks. CMU-Africa student Stephen Augustine is researching rainfall forecasting methodology that addresses food insecurity in Rwanda caused by shifting climates. 13 grants, collectively led by researchers from all members of Afretec, have been awarded to make a positive impact on health, environment and sustainability, and energy in Africa. CMU-Africa's Edwin Mugume recently ran a workshop for students about the typesetting software LaTeX. The system is used for creating scientific documents and is the standard in the Institute of Electrical and Electronics Engineers (IEEE). Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+14. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+15. Carine Mukamakuza
+--------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mukamakuza-carine.html
+Bio Available: Yes
+Contact Information:
+  Email: cmukamak@andrew.cmu.edu
+  Phone: +250 781 986 076
+
+Biography:
+Carine Pierrette Mukamakuza holds a bachelor’s and master’s degree in computer science from Central South University, China. She completed her Ph.D. studies at Vienna Technical University in the Vienna Ph.D. School of Informatics. Mukamakuza is a lecturer, researcher, and entrepreneur. Her research focuses on digital healthcare solutions, business intelligence, data science (specifically machine learning, where she has centered her attention on recommender systems), online social network behavior, and personalization. Using publicly available datasets, she has investigated the extent to which social connections influence user rating behavior over time. Driven by her interest in digital healthcare solutions, Mukamakuza is creating a digital detection project. She is currently focused on Rwanda as a case study, and her long-term goals for the interface are much broader where she envisions creating a system that could be utilized across countries in Africa, and across diseases. Overall, her goal is to construct an effective data management system that has wide usability and high reliability. CMU-Africa held a workshop focused on revolutionizing malaria microscopy through advanced digital data collection techniques. Afretec has awarded 11 grants, each led by a multi-university research team, to build research capacity and work toward achieving the UN Sustainable Development Goals (SDGs) in Africa. Carine Pierrette Mukamakuza is creating an automated malaria screening tool that could revolutionize data accessibility and treatment in Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+16. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+17. Emmanuel Ndashimye
+---------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ndashimye-emmanuel.html
+Bio Available: Yes
+Contact Information:
+  Email: endashim@andrew.cmu.edu
+  Phone: +250 785 200 934
+
+Biography:
+Emmanuel Ndashimye is an assistant teaching professor at Carnegie Mellon University Africa. He received the Bachelor of Electronics and Telecommunication Engineering degree from University of Rwanda (UR), College of Science and Technology, Rwanda in 2005 and MSc degree in Communication and Information Systems (with Distinction) from Huazhong University of Science and Technology (HUST), China in 2009. He completed his Ph.D. degree in Computer Science from the Auckland University of Technology (AUT), New Zealand in 2018. His Ph.D. focused on developing handover decision algorithms for Vehicle-to-Infrastructure Communications over Heterogeneous Wireless Networks. His research interests are in mobility for high speed mobile nodes, 5G networks, LTE- Advanced/LTE-Unlicensed, Network Security, and Internet of Things. Ndashimye served as an editor for Engineering Science & Technology, Universal Wiser Publisher (2019 - 2022) and is a member of IEEE. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+18. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+19. Jema Ndibwile
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ndibwile-jema.html
+Bio Available: Yes
+Contact Information:
+  Email: jndibwil@andrew.cmu.edu
+  Phone: +250.787.002911
+
+Biography:
+Jema David Ndibwile is an assistant teaching professor in cybersecurity at Carnegie Mellon University. He previously worked at the Nelson Mandela African Institute of Science and Technology as an IT network specialist and a lecturer in cybersecurity. He earned a Ph.D. in information security from Japan's Nara Institute of Science and Technology in 2019. In assisting to address complex cyber security challenges, his specializations include cybersecurity, military intelligence, applied cryptography, ethical hacking, the psychology of cybersecurity, digital forensics, and cyber defenses. Ndibwile’s current research interests encompass usable privacy and security, hacking countermeasures, the impact of artificial and human intelligence on cybersecurity, and social engineering approaches. He also has expertise assisting the cybersecurity teams in areas such as communication, IT network architecture and in-network, service security, security testing, and developing security concepts for mobile and stationary networks. He has extensive experience in ethical hacking/penetration testing, digital forensics, and project management leveraging tools such as Kali Linux, Parrot OS, Cellebrite, and many others. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+20. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+21. George Okeyo
+---------------
+Basic Title: Associate Teaching Professor and Director of Academics, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/okeyo-george.html
+Bio Available: Yes
+Contact Information:
+  Email: gokeyo@andrew.cmu.edu
+  Phone: +250 787 981 470
+
+Biography:
+George Okeyo comes to Carnegie Mellon with more than 16 years of experience in teaching, academic leadership, and research in higher education institutions in Kenya and the United Kingdom. He received his Ph.D. in computer science from the University of Ulster and researched on the application of semantic web technologies in activity recognition in smart environments. He most recently served as lecturer and senior lecturer at the De Montfort University in Leicester, United Kingdom. Prior to joining De Montfort University, he was a lecturer at the Jomo Kenyatta University of Agriculture and Technology, where he was also the head of the Department of Computing. Okeyo has teaching interests and experience in programming, artificial intelligence, machine learning, and Internet of Things, among others. Overall, he has successfully supervised five Ph.D. students to completion as well as several MSc projects. Maurine Gatimu (MSIT '25) wanted to grow beyond the basics at her job, and the Mastercard Foundation Scholarship allowed her to attend CMU-Africa, opening up a wealth of new opportunities. In partnership with the Women in Tech Club, CMU-Africa hosted an AnitaB.org leadership event, themed "Breaking Barriers Together: Leadership Development for Tech Professionals." A team from the Upanzi Network at CMU-Africa seeks to transform the practice of responsible research and innovation in the Global South. The College of Engineering congratulates Eni Halilaj, Coty Jen, and George Okeyo, the 2024 recipients of the Engineering Dean's Early Career Fellowships. In its second year running, CMU-Africa Week welcomed students from the land of a thousand hills to the city of bridges. The master’s practicum, a required component of the MSIT degree program, is a valuable opportunity for students to work directly with companies on complex industry problems. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+22. Barry Rawn
+-------------
+Basic Title: Associate Teaching Professor, Electrical and Computer Engineering
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/rawn-barry.html
+Bio Available: Yes
+Contact Information:
+  Email: bgrawn@andrew.cmu.edu
+  Phone: +250 792 575 718
+
+Biography:
+Barry Rawn studies the development of stressed centralised electricity infrastructure and its relation to the rapid deployment of off-grid energy systems. He also contributes to innovation in the circular economy of energy storage, via study of battery repurposing and battery pack design and control. As an associate teaching professor at Carnegie Mellon University Africa, he teaches power and energy related courses available to both Kigali and Pittsburgh while facilitating local industrial collaboration and international research activities. He is also manager of the Energy Research Cluster of Afretec. Rawn has a track record of research in the integration of renewable energy resources into electric power systems, as well as the modelling and control of these resources. He held postdoctoral positions at the Delft University of Technology (Netherlands) and the KU Leuven (Belgium) before accepting a faculty position as a lecturer at Brunel University London (UK), where he maintains an affiliation with the Smart Power Networks Theme of the Institute of Energy Futures. Three CMU Engineering and Public Policy students spent part of their summer conducting research at CMU-Africa. They collaborated with educators and stakeholders there to integrate their research with the needs and expertise of the local community, and to strengthen ties between students in Pittsburgh and Kigali. Three CMU-Africa students presented their research projects to fellow scholars and industry leaders at IEEE Africon in September and IEEE ICMEA in November. Electrical and computer engineering master’s student Marshal Ruzvidzo is in Pittsburgh this semester as part of CMU-Africa’s student exchange program. Barry Rawn and his colleagues teach a continuum of seven alternative energy courses to both CMU-Africa and Pittsburgh students. Barry Rawn and his colleagues are working to achieve affordable energy storage for consumers while also reducing the environmental effects of e-waste. It was Katrina Ramirez-Meyers’ experience serving as a high school teacher in a small West African town without electricity that sparked her interest in batteries and energy storage. The African Engineering and Technology Network, led by CMU-Africa, awarded six planning grants to research collaborations that will lead to socio-economic impact and focus on driving inclusive digital growth on the continent. CMU-Africa's Barry Rawn received a seed grant for his research project "Data-Driven Model Creation for Rwandan Grid Stability – Equipment Repair.” Carnegie Mellon University research projects exploring green chemistry and reduced greenhouse gas emissions in steelmaking are among the research being supported by the Scott Institute for Energy Innovation’s 2022 Seed Grants for Energy Research. CMU-Africa’s Barry Rawn recently participated in a showcase of energy innovations in Rwanda hosted by the University of Rwanda. This past spring semester, about a dozen master’s students in Carnegie Mellon University’s Energy Science, Technology and Policy (EST&P) Project Course worked hands-on with batteries to potentially identify re-use applications that could improve Africa’s energy access problem. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+23. Jesse Thornburg
+------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/thornburg-jesse.html
+Bio Available: Yes
+Contact Information:
+  Email: jthornbu@andrew.cmu.edu
+
+Biography:
+Jesse Thornburg researches microgrids and automation while teaching courses in electrical engineering and entrepreneurship. He enjoys mentoring students and alumni as they become tech entrepreneurs. His background is in entrepreneurship and product design, specifically in the automation and energy sectors. He is co-founder of Grid Fruit, a software company focused on automated controls, energy efficiency, and data science, where he has served as CEO and COO. He has more than 13 years of experience working with startup companies and early-stage entrepreneurs. He received two SB degrees from MIT in mechanical engineering and media. He led power generation and water purification projects in Rwanda and DR Congo for two years before completing MS and PhD degrees at Carnegie Mellon University in electrical and computer engineering. He was the founding director of the WIN Center for Entrepreneurship and Head of Engineering Programs at Samarkand International University of Technology (SIUT) in Uzbekistan. Thornburg has co-founded and worked as CEO of three companies, as well as mentoring and supporting many for-profit and non-profit ventures. He has served as a board member since 2020 and on Rwanda’s national investment steering committee since 2023. He loves to build multidisciplinary, international teams. He has authored or co-authored over 25 technical publications and is an IEEE Senior Member. He is also a member of the Materials Research Society and the National Postdoctoral Association. CMU-Africa professor Jesse Thornburg is using automatic feeders and computer vision to make fish farming in Rwanda more economical. CMU-Africa’s Jesse Thornburg, cofounder of Grid Fruit, talked with Vermont Business Magazine about his efforts to bring data-driven intelligence to food retail operations. Grid Fruit, led by CMU-Africa’s Jesse Thornburg, provides energy-saving measures to grocery stores by improving refrigeration and freezing cycles. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+24. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+25. Conrad Tucker
+----------------
+Basic Title: Director of CMU-Africa and Associate Dean for International Affairs-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/tucker-conrad.html
+Bio Available: Yes
+Contact Information:
+  Email: conradt@andrew.cmu.edu
+
+Biography:
+Director of CMU-Africa and Associate Dean for International Affairs-Africa     		    		        		  Trustee Professor, CMU-Africa, Mechanical Engineering     		    		        		  Courtesy Appointments, Biomedical Engineering, Machine Learning, Robotics Institute Conrad Tucker is the director of CMU-Africa and associate dean for international affairs-Africa, as well as a professor of mechanical engineering at Carnegie Mellon University. He holds courtesy faculty appointments in machine learning, robotics, and biomedical engineering. His research focuses on the design and optimization of systems through the acquisition, integration, and mining of large scale, disparate data. Tucker has served as PI/Co-PI on federally/non-federally funded grants from the National Science Foundation (NSF), the Air Force Office of Scientific Research (AFOSR), the Defense Advanced Research Projects Agency (DARPA), the Army Research Laboratory (ARL), the Office of Naval Research (ONR) via the NSF Center for eDesign, and the Gates Foundation. In February 2016, he was invited by National Academy of Engineering (NAE) President Dr. Dan Mote, to serve as a member of the Advisory Committee for the NAE Frontiers of Engineering Education (FOEE) Symposium. He received his Ph.D., M.S. (industrial engineering), and MBA degrees from the University of Illinois at Urbana-Champaign, and his B.S. in mechanical engineering from Rose-Hulman Institute of Technology. At the Global AI Summit on Africa, CMU-Africa led a roundtable discussion centered on building AI infrastructure tailored to local needs. CMU-Africa and UR leadership, faculty, and students met to identify common research goals and outline a roadmap for impactful academic collaborations during a two-day symposium held in March. CMU-Africa professor Conrad Tucker was part of a panel of researchers who called on the African research community to invest in artificial intelligence technology to secure Africa’s technological and economic future. CMU-Africa and Challenger Center will partner to deliver Challenger Center’s Virtual Missions to hundreds of secondary school students on the continent. The Upanzi Network will fund research projects in Morocco, Botswana, and South Africa, with plans for additional partnerships. A delegation from CMU-Africa recently traveled to the United States, connecting with various organizations to strengthen global networks. CMU-Africa's Conrad Tucker is among eight faculty members to receive new endowed chairs in the College of Engineering. The African Engineering and Technology Network, led by CMU-Africa, drives inclusive digital transformation on the continent through research, education, and entrepreneurship. Carnegie Mellon University Africa announced that the African Engineering and Technology Network has signed its eighth university partner, Al Akhawayn University. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+26. Eric Umuhoza
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/umuhoza-eric.html
+Bio Available: Yes
+Contact Information:
+  Email: eumuhoza@andrew.cmu.edu
+  Phone: +250 783 851 854
+
+Biography:
+Eric Umuhoza is an assistant teaching professor at Carnegie Mellon University Africa. Prior joining CMU-Africa, Umuhoza held different academic positions in European universities, including postdoctoral researcher and teaching assistant at the Department of Electronics, Informatics and Bioengineering - Polytechnic University of Milan (Italy); senior postdoctoral researcher at the Department of Information Engineering, Computer Science and Mathematics - University of L’Aquila (Italy); and visiting scholar at the École des Mines de Nantes (France). His research interests include (model-driven) software engineering, user interaction design, and big data management for Internet of Things. Eric holds a Ph.D. in Information Technology and a Master of Science in Engineering of Computing Systems both obtained from the Polytechnic University of Milan (Politecnico di Milano). The African Engineering and Technology Network, led by CMU-Africa, awarded six planning grants to research collaborations that will lead to socio-economic impact and focus on driving inclusive digital growth on the continent. CMU-Africa’s Eric Umuhoza will be a program committee member for the IEEE Software Engineering in Africa 2020. The Smart Africa Secretariat has renewed its partnership to CMU-Africa with a three-year commitment to support 30 students through the Smart Africa Scholarship Fund. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+27. Assistant Teaching Professor, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-assistant.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+28. David Vernon
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/vernon-david.html
+Bio Available: Yes
+Contact Information:
+  Email: dvernon@andrew.cmu.edu
+  Phone: +250 785 927 470
+
+Biography:
+David Vernon is responsible for growing the robotics research activities at CMU-Africa, advising graduate CMU-Africa students, and providing technical mentorship to members of the CMU-Africa Industry Innovation Lab (IIL). He teaches several courses on robotics and AI, including cognitive robotics, artificial cognitive systems, and robotics: principles and practice. He is a Fellow of the Institution of Engineers of Ireland, Life Senior Member of the IEEE, Research Fellow at the Kigali Collaborative Research Centre, Rwanda, co-chair of the IEEE RAS Technical Committee for Cognitive Robotics, an associate editor of Cognitive Systems Research, and a series editor of Cognitive Systems Monographs published by Springer. CMU-Africa’s David Vernon authored a piece in Science Robotics, covering the current landscape of robotics in Africa. Natasha Mutangana (MS EAI '24) reflects on her experiences at CMU-Africa and with the Mastercard Foundation Scholars Program. CMU-Africa researchers were published in Science Robotics, as a Focus article, for their work with culturally sensitive robotics. Afretec has awarded 11 grants, each led by a multi-university research team, to build research capacity and work toward achieving the UN Sustainable Development Goals (SDGs) in Africa. Afretec has awarded 11 grants, each led by a multi-university research team, to build research capacity and work toward achieving the UN Sustainable Development Goals in Africa. Placca Umuhire (MSIT '20) has had a lifelong interest in technology and is drawn to teaching as a way of inspiring others; the Mastercard Foundation Scholarship was a perfect opportunity to pursue both of those goals. CMU-Africa’s David Vernon has been appointed a member of IEEE RAS Women in Engineering’s new committee: Inclusion, Diversity, Equity, and Accessibility. CMU-Africa’s David Vernon was invited to be a member of the IEEE Robotics and Automation (RAS) Committee for Women in Engineering. CMU-Africa’s David Vernon was invited to deliver a lecture on "Africa Embraces AI, Robotics, and Machine Learning” at the International Conference on Robot Ethics and Standards in Taipei, Taiwan. CMU-Africa/ECE’s David Vernon will be a program committee member for the Irish Machine Vision and Image Processing Conference. CMU-Africa/ECE’s David Vernon has earned a fellowship position at the ZiF Centre for Interdisciplinary Research. CMU Africa’s David Vernon organized a workshop on the cognitive architectures for humanoids at the 2019 IEEE/RSG International Conference on Intelligent Robots and Systems (IROS 2019) in November in Macau, China. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+29. Research Professor, CMU-Africa
+---------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-research.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+SPECIAL FACULTY
+===============
+
+1. Bruce Krogh
+--------------
+Basic Title: Digital Engagement Lead, Center for Inclusive Digital Transformation of Africa, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/krogh-bruce.html
+Bio Available: Yes
+Contact Information:
+  Email: krogh@ece.cmu.edu
+
+Biography:
+Bruce H. Krogh is professor emeritus of electrical and computer engineering at Carnegie Mellon University and currently digital engagement lead for the Center for Inclusive Digital Transformation of Africa at CMU-Africa. His interest in the digital transformation of Africa began in 2012 when he moved to Kigali to work for six years as founding director of CMU-Africa. Before returning to CMU-Africa in December 2024, he led the IEEE Continu>ED initiative to develop continuing education resources for technical professionals in Africa. Throughout his career, Krogh’s teaching, research, and industrial consulting focused on the design and implementation of algorithms and embedded software for control of robotic, automotive, aeronautical, energy, and manufacturing automation systems. Before joining Carnegie Mellon in 1983, he developed algorithms and control software for utility energy control centers as a systems engineer at Westinghouse Corporation. He received the Presidential Young Investigator Award from the U.S. National Science Foundation and the Senior U.S. Scientist Award from the Alexander von Humboldt Foundation in Germany. He held visiting faculty appointments in Germany and France and served on the technical staff of Carnegie Mellon’s Software Engineering Institute. Krogh was founding editor-in-chief of the IEEE Transactions on Control Systems Technology and a Life Fellow of the IEEE. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Panos Papalambros
+--------------------
+Basic Title: Special Faculty, Center for Inclusive Digital Transformation in Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/papalambros-panos.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Special Faculty, Center for Inclusive Digital Transformation in Africa     		    		        		  Design Science and Optimization Lead, CMU-Africa Panos Papalambros is a U.S. National Academy of Engineering (NAE) member with a global reputation for his work on the design optimization of products and complex systems and for his leadership in advancing transformative engineering design research and education. Papalambros graduated from Stanford University and the National Technical University of Athens. He is an emeritus professor at the University of Michigan, holding the titles of James B. Angell Distinguished University Professor Emeritus, Donald C. Graham Professor Emeritus of Engineering, professor emeritus of mechanical engineering, professor emeritus of integrative systems and design, professor emeritus of architecture, and professor emeritus of art and design. He co-authored the standard textbook Principles of Optimal Design:Modeling and Computation with D.J. Wilde, and has published over 450 articles in journals, conference proceedings, and books. Papalambros is the founding editor-in-chief of Design Science and past chief editor of the American Society of Mechanical Engineers’ Journal of Mechanical Design. His primary interest is in mathematical design optimization for product development and complex systems design with emphasis on sustainability, including automotive systems, electric and hybrid powertrains, farming systems, modularity, product platforms, and systems of systems—linking design decisions with defense, commercial, and regulatory business and government decision making. His research in design preference elicitation, including machine learning and crowdsourcing, has linked engineering design models with computer science, marketing, behavioral, and social sciences models for a more holistic, inclusive, and comprehensive quantification of the design optimization process. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Keith Straughan
+------------------
+Basic Title: Professor of the Practice of Global Entrepreneurship and Digital Technology Innovation, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/straughan-keith.html
+Bio Available: Yes
+Contact Information:
+  Email: kstraugh@andrew.cmu.edu
+  Phone: +250 794 005 105
+
+Biography:
+Keith Straughan is a seasoned academic leader, innovator, and entrepreneur with a diverse background spanning physics, medicine, and theology. Initially unable to choose among the three disciplines, he pursued all of them during his undergraduate studies, ultimately finding his greatest passion in physics. He began his career in medical imaging and was part of the pioneering team that commissioned the world’s first clinical MRI system, and later joined Imperial College London as a faculty member, where he launched the institution's first research and teaching programs in diagnostic imaging. It was during his time at Imperial that he embraced entrepreneurship, spinning out five companies from his work. Straughan went on to hold several senior academic roles at the University of Cambridge, culminating in his appointment as chief academic officer of one of its constituent colleges. Straughan later led the establishment of a new university in Milton Keynes, England, marking a bold shift from one of the country’s oldest institutions to its newest. After successfully guiding the university through its formative phase, he transitioned from formal academia to focus on innovation, leadership development, and capacity building. In 2024, he established a Kigali-based subsidiary of his consulting firm, working extensively with public and private sector partners across the innovation ecosystem in Africa. Straughan is recognised internationally as an executive coach for C-level leaders in corporate, public sector, SME and start-ups operating across industry verticals. He is a Fellow of the Institute of Coaching (Harvard Medical School), Fellow of the Association for Coaching, and Senior Practitioner of the European Coaching and Mentoring Council. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Victor Thompson
+------------------
+Basic Title: Professor of the Practice of Information Technology and Graduate Pathways, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/thompson-victor.html
+Bio Available: Yes
+Contact Information:
+  Email: victort@andrew.cmu.edu
+
+Biography:
+Victor Thompson brings more than 40 years of experience in computer technology and software application engineering to CMU-Africa. His career spans enterprise systems, distributed object systems, Radio Frequency engineering design, business intelligence architecture, data mining platforms, and web services. He has led the development of systems in diverse application areas including cloud content distribution, e-commerce, mobile wireless applications, supply chain management, semiconductor software testbeds, web-based security, telematics, and biometrics. A recognized technology leader, Thompson is renowned for crafting strategic and innovative visions that align IT solutions with business goals and operational resilience. His leadership is marked by a deep understanding of complex systems and a consistent drive for innovation. As the primary visionary behind the NASA Innovation Ecosystem, Thompson spent two decades fostering collaboration across business stakeholders, strategic vendors, external technology teams, and academia. In his role as former chief information officer at NASA headquarters, he oversaw the agency's IT strategy, managed budgets exceeding $100 million, and led a team responsible for infrastructure, operations, and cybersecurity. Thompson’s career also includes leadership roles at Digital Equipment Corporation, Eon, ComSearch, Manugistics, Raytheon, Real Networks, and Sprint, where he implemented innovative technology solutions across a wide range of industries. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+ESL INSTRUCTORS
+===============
+
+1. Kwan Lee
+-----------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/lee-kwan.html
+Bio Available: Yes
+Contact Information:
+  Email: kwanl@andrew.cmu.edu
+
+Biography:
+Kwan Lee is an instructor at CMU-Africa. He has over ten years of experience in the field, and prior to joining CMU-Africa, he worked as an academic purposes instructor/lecturer in the UK. He has also worked in Oman and Sri Lanka. Researching, developing, and producing pedagogical materials for use in English language and technical courses Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Instructor, CMU-Africa
+-------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-instructor.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Glen Thompson
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/thompson-glen.html
+Bio Available: Yes
+Contact Information:
+  Email: glent@andrew.cmu.edu
+
+Biography:
+Glen Thompson comes from Yorkshire in the north of England. He started his career teaching German and French in British schools before starting to teach English as a second language. He has worked in Austria, Poland, Belgium, Oman, and most recently Qatar before coming to CMU-Africa. His teaching experience includes teaching soldiers from Nepal, German businesspeople, Algerian sailors, and Qatari diplomats. After several years teaching general English, he developed an interest in teaching English for academic purposes, where he supports students studying degree programs in English. He has gained experience of teaching international students and managing courses at universities in the UK, Qatar, and now Rwanda. He is particularly interested in curriculum development and assessment. Outside of the classroom, his hobbies include traveling, hiking, gardening, environmental work and cooking. He has a deep love of Africa and is keen to contribute to environmental work while in Rwanda. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Instructor, CMU-Africa
+-------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-instructor.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+ADJUNCT FACULTY
+===============
+
+1. Cathy Bishop
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/bishop-cathy.html
+Bio Available: Yes
+Contact Information:
+  Email: mcbishop@andrew.cmu.edu
+
+Biography:
+Cathy Bishop is currently a part-time instructor at Carnegie Mellon University Africa, teaching computer science and software engineering courses and supporting students in all their technology projects, with a focus on Java, Android, and Linux. She lived and worked in Kigali, Rwanda from 2013 to 2021, and now teaches remotely from Boulder, Colorado, USA. Bishop has extensive industry experience as a software engineer and in teaching computer science coursework as both a corporate trainer and in academia working with both undergraduate and graduate students. She has worked as a software engineer for a number of companies in a variety of application areas. She has taught as an adjunct at the University of Colorado, Boulder and also taught full-time at Red Rocks Community College in Colorado. Bishop earned her BS in computer science from the University of Wyoming and her MS in computer science from the University of Colorado, Boulder. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Adjunct Instructor, CMU-Africa
+---------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-adjunct.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Edwin Kairu
+--------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kairu-edwin.html
+Bio Available: Yes
+Contact Information:
+  Email: ekairu@andrew.cmu.edu
+
+Biography:
+Edwin Kairu is an instructor at Carnegie Mellon University Africa (CMU-Africa) responsible for teaching courses and labs on multiple Information Security topics. Prior to joining CMU-Africa he spent more than 10 years working in various information security roles. From 2014 to 2018, Kairu worked as a consultant and later a Threat Assessment Manager at FireEye, Inc. There he served as a trusted advisor to clients, managing service delivery for multiple managed security services and assisting clients in building their own cyber threat detection capabilities. Additionally, he provided specialized security monitoring, compromise assessment, threat intelligence, and incident management consulting expertise. From 2012 to 2014, he worked as a senior security analyst at Bank of New York Mellon where he specialized in network forensics and cyber threat management. He also represented the bank at the Financial Services Information Sharing and Analysis Center (FS-ISAC) and other cyber threat intelligence sharing groups. From 2008 to 2012, he worked as a senior security consultant at Deloitte & Touche. There he conducted cyber compromise diagnostics, vulnerability assessments, penetration testing and secure code review for dozens of clients. Additionally, he worked for the World Bank on contract from 2009 to 2010 where he managed an intrusion prevention system, implemented a disk encryption solution and maintained the bank’s public key infrastructure. BS, Business Administration (Management Information Systems), State University of New York at Buffalo Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Adjunct Instructor, CMU-Africa
+---------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-adjunct.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+5. Sarath Tennakoon
+-------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/tennakoon-sarath.html
+Bio Available: Yes
+Contact Information:
+  Email: stennako@andrew.cmu.edu
+  Phone: +250 782 394 714
+
+Biography:
+Sarath B. Tennakoon is an emeritus professor of power electronic systems at Staffordshire University (SU), UK. Tennakoon is also a research fellow in the Kigali Collaborative Research Centre (KCRC). In previous roles, he has served as the director of the Centre for Energy Efficient Systems, head of Engineering Research Centre, director of engineering post-graduate research students in engineering, and acting head of Department of Engineering at SU. Tennakoon has also served as a committee member of the Institution of Engineering and Technology (IET) North West Centre, chairman of the IEEE Power Electronics Society UKRI Chapter (PELS-UKRI), and a committee member of the United Kingdom’s Engineering Professors Council (ERC). He is a chartered engineer, a member of the IET, and a life member of the IEEE. Tennakoon continues to serve in the international steering committee of the European Power Electronics Association. Tennakoon has published papers and carried out research in power electronics, in several application areas within the scope of application power systems. His research is focused on grid integration of renewable energy, specifically wind energy, HVDC and DC grids, and more recently on the productive use of electrical energy in Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+6. Adjunct Professor, CMU-Africa
+--------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-adjunct.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+AFFILIATE FACULTY
+=================
+
+1. Theophilus Benson
+--------------------
+Basic Title: Professor, Electrical and Computer Engineering
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/benson-theophilus.html
+Bio Available: Yes
+Contact Information:
+  Email: theophib@andrew.cmu.edu
+
+Biography:
+Theophilus A. Benson is an electrical and computer engineering professor at Carnegie Mellon University. He earned his B.S. from Tufts, Ph.D. from University of Wisconsin-Madison, and post-doctorate from Princeton. Benson’s research focuses on improving the performance and availability of computer networks. In particular, he works with a broad set of cloud providers to improve their infrastructures. He recently has been developing an initiative to address the digital divide in the global south. His research was recognized by paper awards, including IMC, EuroSYS, and ANRP. Benson received the SIGCOMM Test of Time Award, NSF CAREER Award, NEC Faculty Award, Google Faculty Award, Facebook Faculty Award (X2), and Faculty Research and Engagement Program (X2). He was recently named to DARPA’s ISAT (Information Science and Technology) study group. On his journey to learn everything he can about distributed networks, Mike Mwanje (MSIT ’25) picked up some insights on the value of global connections as a CMU-Pittsburgh exchange student. ECE Professor Theophilus Benson strives to realize Sustainable Development Goal 9 by improving the performance and accessibility of digital infrastructures. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Giulia Fanti
+---------------
+Basic Title: Angel Jordan Associate Professor, Electrical and Computer Engineering
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/fanti-giulia.html
+Bio Available: Yes
+Contact Information:
+  Email: gfanti@andrew.cmu.edu
+  Phone: 412.268.4254
+
+Biography:
+Angel Jordan Associate Professor, Electrical and Computer Engineering     		    		        		  Co-director, CyLab-Africa     		    		        		  Co-director, the Upanzi Network     		    		        		  Courtesy Appointment, Computer Science Department Giulia Fanti is the Angel Jordan Associate Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the algorithmic foundations of blockchains, distributed systems, privacy-preserving technologies, and machine learning. She is a fellow for the World Economic Forum’s Global Future Council on Cybersecurity, and has received a best paper award at ACM Sigmetrics and an NSF Graduate Research Fellowship. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering. Carnegie Mellon University's Secure Blockchain Initiative (SBI) has announced its third round of funded proposals, providing $130K to six groundbreaking research projects that are exploring the security and privacy of distributed ledger technology. Researchers with the Upanzi Network have developed recommendations for the Digital Public Goods Alliance to increase transparency about users’ data privacy. CMU-Africa’s Upanzi Network was featured in mosip16.9 for their Digital ID Hackathon. The hackathons are part of a larger initiative to increase the technical capacity of participants, promote innovation, and foster the next generation of thinkers in the field of digital identity. The Upanzi Network will fund research projects in Morocco, Botswana, and South Africa, with plans for additional partnerships. Giulia Fanti and Karen Sowon were among the co-authors of an article in Atlantic Council suggesting ways in which governments could more effectively regulate new technologies while avoiding setbacks. Carnegie Mellon faculty and students shared their research at the  2024 Symposium on Usable Privacy and Security (SOUPS), which took place August 11-13 in Philadelphia. Giulia Fanti has been named the new Angel Jordan Associate Professor of Electrical and Computer Engineering. As the presence of mobile phones becomes increasingly widespread in Africa, digital services have allowed for more financial inclusion among low- and middle-income countries within the continent. A group of Carnegie Mellon University researchers led by Karen Sowon, a postdoctoral researcher at CMU’s CyLab Security and Privacy Institute, investigated these issues and recently published a paper on "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania." Carnegie Mellon University's Secure Blockchain Initiative (SBI) has announced its second round of funded proposals, providing $90K to three groundbreaking research projects that are exploring the security and privacy of distributed ledger technology. CyLab faculty members and students presented their research on topics ranging from mobile money practices in Africa to uncovering and identifying side-channel and evasion attacks at the 45th Institute of Electrical and Electronics Engineers (IEEE) Symposium on Security and Privacy. Population analytics is a concept that has important downstream applications, like determining funding allocations, but these analytics can leak sensitive data about individuals. CMU-Africa’s Assane Gueye and ECE’s Giulia Fanti were named among a diverse group of experts to work on an initiative from the United Nations to develop a safeguards framework to guide digital public infrastructure (DPI) design and implementation around the world. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Co-director, CyLab-Africa
+----------------------------
+Basic Title: Co-director, the Upanzi Network
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cylabafrica-codirector.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Paulina Jaramillo
+--------------------
+Basic Title: Trustee Professor, Engineering and Public Policy
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/jaramillo-paulina.html
+Bio Available: Yes
+Contact Information:
+  Email: paulina@cmu.edu
+  Phone: 412.268.6655
+
+Biography:
+Trustee Professor, Engineering and Public Policy     		    		        		  Courtesy Appointment, Civil and Environmental Engineering, CMU-Africa Originally from Medellin - Colombia, Paulina Jaramillo is a naturalized citizen of the U.S., where she has lived more than half her life. She is currently a professor of engineering and public policy at Carnegie Mellon University (CMU). Jaramillo is also a fellow of the Scott Institute for Energy Innovation and Research at CMU and a research affiliate of the Kigali Collaborative Research Center. She also holds a courtesy appointment in CMU Africa. Finally, Jaramillo is a lead author for the IPCC’s 6th Assessment Report as part of Working Group III. Jaramillo’s past research focused on life cycle assessment of energy systems with an emphasis on climate change impacts and mitigation research. As a professor at CMU, she is currently involved in multi-disciplinary research projects to better understand the social, economic, and environmental implications of policy-driven changes in the operations of the energy system. Over the past five years, her research and education efforts have expanded to include issues related to energy access and development in the Global South. She has also worked to incorporate values and beliefs in energy planning in historically disenfranchised communities and to understand the implications of energy access in gender equity. Jaramillo’s interest in energy for the Global South stems from her firm belief that what happens in developing countries as they try to provide energy that supports development will have profound implications in global environmental systems. There is an opportunity, however, to build sustainable and equitable modern energy systems that benefit from decades of technological development and experience elsewhere while accounting for local conditions and stakeholder interests. Through her research, Jaramillo aims to create the knowledge that will be required to meet global energy needs and climate mitigation efforts. Three CMU Engineering and Public Policy students spent part of their summer conducting research at CMU-Africa. They collaborated with educators and stakeholders there to integrate their research with the needs and expertise of the local community, and to strengthen ties between students in Pittsburgh and Kigali. EPP Professor Paulina Jaramillo is honing her policy outreach skills by participating in prestigious fellowship programs. Engineering and Public Policy Professor Paulina Jaramillo completed the ELATES at Drexel fellowship—a national leadership development program for women in STEM fields in academia. EPP’s Paulina Jaramillo spoke with Heatmap about the current rules surrounding hydrogen production in the U.S. EPP’s Paulina Jaramillo spoke with Public Source about how natural gas is not the solution to the climate crisis. Jaramillo claims that “getting rid of coal and reducing all your other fossil fuel combustion,” is what is necessary to effectively decarbonize. MSE’s Chris Pistorius and EPP’s Valerie Karplus and Paulina Jaramillo, alongside Assistant Professor of Economics and Public Policy Edson Severnini, joined collaborators in Germany to begin an international research partnership. Valerie Karplus and Paulina Jaramillo, Scott Institute Energy Fellows, and Chris Pistorius and Edson Severnini, Scott Institute Faculty Affiliates, joined international collaborators in Heidelberg, Germany, in early May to kick off a research partnership focused on industrial decarbonization. The Wilton E. Scott Institute for Energy Innovation’s Seed Grants for Energy Research program will support three research projects in the 2023 cycle. Engineering and public policy professor Paulina Jaramillo has been accepted into next year's ELATES fellowship program at Drexel University. Barry Rawn and his colleagues teach a continuum of seven alternative energy courses to both CMU-Africa and Pittsburgh students. CMU-Africa, CMU-Pittsburgh, and global collaborators create an air quality testing center in Ghana with new funding from the Clean Air Fund. Valerie Karplus and Paulina Jaramillo have been awarded a $1.5 million grant to establish the Industrial Decarbonization Analysis, Benchmarking, and Action (INDABA) partnership. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+5. Amy Ogan
+-----------
+Basic Title: Thomas and Lydia Moran Associate Professor of Learning Science, Human-Computer Interaction Institute
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ogan-amy.html
+Bio Available: Yes
+Contact Information:
+  Email: aeo@andrew.cmu.edu
+
+Biography:
+Thomas and Lydia Moran Associate Professor of Learning Science, Human-Computer Interaction Institute     		    		        		  Courtesy Appointment, CMU-Africa Amy Ogan is an educational technologist focusing on ways to make learning experiences more engaging, effective, and enjoyable. Her training spans many disciplines, with undergraduate degrees in computer science and Spanish, and a Ph.D. in human-computer interaction supported by a fellowship from the Institute of Education Sciences (IES). She has been named a Rising Star in EECS by MIT, a World Economic Forum Young Scientist, received the McCandless Chair and the Thomas and Lydia Moran Professorship in Learning Science, and been awarded the Jacobs Early Career Fellowship to study the use of educational technologies in emerging economies. She has been a visiting researcher at USC’s Institute for Creative Technologies and the Pontificia Universidad Católica de Chile, and has conducted field research on the deployment of educational technology across many international sites. Her research is supported by the National Science Foundation, Google, the McDonnell Foundation, and the Jacobs Foundation. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+6. Bhiksha Raj Ramakrishnan
+---------------------------
+Basic Title: Professor, Computer Science Department, Electrical and Computer Engineering, Language Technologies Institute
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ramakrishnan-bhiksha.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+POSTDOCTORAL FELLOWS
+====================
+
+1. Emily Aiken
+--------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/aiken-emily.html
+Bio Available: Yes
+Contact Information:
+  Email: eaiken@andrew.cmu.edu
+
+Biography:
+Emily Aiken’s research interests lie in the intersection of machine learning and development economics, focusing on analyzing large digital traces to inform the design of social protection policy. Her work has been published in various prestigious venues including Nature and Science Advances. Emily earned her Ph.D. from the UC Berkeley School of Information, an M.S. in computer science from UC Berkeley, and a B.A. in computer science from Harvard University. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Postdoctoral Research Associate, CMU-Africa
+----------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-postdoctoral.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. N’guessan Y.-R. Douha
+------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/douha-nguessan.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Postdoctoral Research Associate, CMU-Africa
+----------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-postdoctoral.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+5. Aline Ingabire
+-----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ingabire-aline.html
+Bio Available: Yes
+Contact Information:
+  Email: aingabir@andrew.cmu.edu
+
+Biography:
+Aline Ingabire received her bachelor’s degree in biomedical engineering, then a master’s degree in control systems engineering from Don State Technical University, Russia. She completed her Ph.D. in control systems engineering at  Southern Federal University, Russia. Ingabire’s Ph.D. focused on improving the reliability of Unmanned Aerial Vehicle (UAV) operation by applying control algorithms that ensure that the UAV’s behavior is asymptotically stable on a given trajectory and invariant to the effect of wind disturbances. During her Ph.D., she worked with the Computer Innovative Creativity (CIC) at the university to initiate and establish procedures for technical creativity and real technological projects. This included the design and development of robotic systems, as well as software and hardware products for navigation, guidance and control of moving objects. Ingabire has also worked as an assistant professor at the Southern Federal University. Her research interests include control systems, automation, robotics, and artificial intelligence. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+6. Postdoctoral Research Associate, CMU-Africa
+----------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-postdoctoral.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+7. Ernest Ntizikira
+-------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ntizikira-ernest.html
+Bio Available: Yes
+Contact Information:
+  Email: entiziki@andrew.cmu.edu
+
+Biography:
+Ernest Ntizikira holds a Ph.D. in software engineering, a master’s degree in medical informatics, and a bachelor’s degree in computer engineering and information technology. He is a dedicated researcher and academic with expertise in network security, artificial intelligence, cybersecurity, internet of things, and ehealth. Combining his strong academic foundation with professional experience, he applies an interdisciplinary approach to addressing complex challenges in technology and healthcare. Ntizikira has extensive experience in teaching, research, and industry engagement, complemented by a proven track record of publishing in reputable journals. His work emphasizes innovation, problem-solving, and knowledge sharing to advance both academic and professional communities. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+8. Postdoctoral Research Associate, CMU-Africa
+----------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-postdoctoral.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+STAFF
+=====
+
+1. Geoffrey Andrew
+------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/andrew-geoffrey.html
+Bio Available: Yes
+Contact Information:
+  Email: gandrew@andrew.cmu.edu
+  Phone: +250 791 054 611
+
+Biography:
+Geoffrey Andrew is an ambitious, result-oriented, self-motivated, diligent, hardworking, team leader. He is a dynamic self-starter with a proven track record in health, livelihood, and program management. He is a specialist with a fourteen-year cumulative experience in program management, financial management, team management, monitoring and evaluation, partnerships and networking, advocacy and influencing, risk management, procurement, budget management, social accountability and research. These are cumulative experiences from international NGO and World Bank-funded projects in which he has served as program manager. With an astute grasp of business drivers and financial reporting standards, he possesses the acumen needed to steer projects with precision. His exceptional managerial capabilities are highlighted by a proven history of assembling and nurturing exceptional teams. Endowed with quick-thinking problem-solving skills, he is resolute in upholding seamless operations through meticulous coordination and budgetary control, harnessing superior communication talents and specialize in forging meaningful and trustworthy relationships that consistently surpass client expectations. He holds a doctorate in business administration, an Executive Master of Business Administration (EMBA), a master of science in epidemiology and biostatistics, a bachelor of science in public health, a diploma in strategic management, a diploma in project management, a diploma in community development and is currently pursuing a Ph.D. in public health. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+2. Project Manager, CMU-Africa
+------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-project.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+3. Nancy Biwott
+---------------
+Basic Title: Associate Director of Diversity & Inclusion, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/biwott-nancy.html
+Bio Available: Yes
+Contact Information:
+  Email: nbiwott@andrew.cmu.edu
+  Phone: +250 791 445 827
+
+Biography:
+Nancy Biwott is a seasoned diversity and inclusion professional with a passion for social justice. She has worked in various organizations in roles touching on conflict transformation, inclusion, and sustainable business. She has facilitated numerous trainings on the same in the various Kenyan Counties and across various African countries. Biwott is excited to join CMU-Africa as the associate director of diversity and inclusion. She holds a bachelor’s degree in sociology, a master’s from UCL in education and international development, and a PGD in applied and professional ethics. She is part of a network known as the Umoja na Usawa network that facilitates on social inclusion with various community and youth groups as well as providing training with different organizations. She also co-runs a blog that highlights trends on social inclusion in addition to being a board member with the Tujiendeleze Youth Trust Fund. Her vision is to support organisations and teams towards becoming partnership driven spaces that embed values of diversity and inclusion. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+4. Esther Bugaiga
+-----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/bugaiga-esther.html
+Bio Available: Yes
+Contact Information:
+  Email: ebugaiga@andrew.cmu.edu
+  Phone: +250 786 876 164
+
+Biography:
+Esther Bugaiga holds a bachelor’s degree in social sciences. She is a lifelong learner with 10 years of work experience in several positions, including project management, operations and administration, student life, admissions, recruitment, and communications. As a lifelong learner, Bugaiga enjoys taking on new challenges while embracing a growth mindset as a pillar to achieving personal, professional and organisational goals. Bugaiga is enterprising and passionate about women and youth empowerment. She is also a growth mindset coach to the youth and is a knowledge junkie on financial literacy. She looks forward to providing invaluable support, as well as learning from a talented team at CMU. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+5. Faculty Support Coordinator, CMU-Africa
+------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-faculty.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+6. Lenah Chacha
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/chacha-lenah.html
+Bio Available: Yes
+Contact Information:
+  Email: lchacha@andrew.cmu.edu
+  Phone: +250 785 149 733
+
+Biography:
+Lenah Chacha is CyLab-Africa’s research lab manager. Prior to joining CyLab-Africa, Chacha has been in engineering for seven years where she has held various roles in networking, security engineering, application security engineering, and instructor. She has also been a research assistant at the lab working on our flagship projects like MOSIP, VAPTs and picoCTF. She has consulted on various levels as picoCTF PI, project lead for industry VAPTs and surveys and team lead for security analysis and investigations for the lab’s MOSIP deployment. She joins Cylab-Africa with more than seven years of consultancy on security where she has guided organizations design and finetune their security strategy. Chacha received her graduate degree from Carnegie Mellon University Africa and is also a certified Ethical Hacker. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+7. Lab Manager-UDPGN Project, CMU-Africa
+----------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-lab.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+8. Hannah Diorio-Toth
+---------------------
+Basic Title: Communications Director, College of Engineering, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/dioriototh-hannah.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+9. Reginald Donkor
+------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/donkor-reginald.html
+Bio Available: Yes
+Contact Information:
+  Email: rdonkor@andrew.cmu.edu
+  Phone: +250 791 502 099
+
+Biography:
+Reginald Donkor is a chartered management accountant and tax practitioner with over nine years of experience in leading financial strategies, financial management, and process re-engineering. He has experience working with start-ups and SMEs across various industries, including governmental agencies and non-governmental agencies. He is adept at strategic planning, financial reporting, and e-resource utilization. As an accountant with passion for system applications, he led a team to develop, integrate, and automate business processes of an ERP software for Masara N’Arziki, a social enterprise with over 30,000 members. He also worked with RUFORUM as systems accountant, where he led reforms in ERP development, reconciliations, tax defense, and compliance with stakeholder reporting. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+10. Finance Officer, CMU-Africa
+------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-finance.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+11. Gisele Gihozo
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/gihozo-gisele.html
+Bio Available: Yes
+Contact Information:
+  Email: ggihozo@andrew.cmu.edu
+  Phone: +250 782 870 550
+
+Biography:
+Gisele Gihozo is CMU-Africa’s academic affairs support coordinator and holds a bachelor’s degree in communications. She is passionate about transformative education with a demonstrated history of working with various international higher education institutions in Rwanda, like Kepler, The University of Global Health Equity (UGHE), and African Leadership University (ALU). She strongly believes in continuous learning and empowering the next generation through transformative education. She looks forward to utilizing her skills and experience to make students’ time with CMU worthwhile. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+12. Academic Affairs Coordinator, CMU-Africa
+-------------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-academic.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+13. Olga Gikundiro Buki
+----------------------
+Basic Title: Mastercard Foundation Scholars Program Manager, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/buki-olga.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+14. Benita Gwaneza
+-----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/gwaneza-benita.html
+Bio Available: Yes
+Contact Information:
+  Email: bgwaneza@andrew.cmu.edu
+
+Biography:
+Benita Gwaneza holds a bachelor of arts degree in healthcare management with a concentration in global perspectives from Southern New Hampshire University through Kepler. As a scholar, she had experience as a teacher in kindergarten and in the preparation program of Kepler candidates, and also in logistics in both roles. Now for the last four years she has worked at Health Builders in the role of an administrative and operations assistant. In this role she has assisted the executive director, managed operations and finances, and maintained the donor database and communication with the external audience. She is passionate about education and the youth, and in her free time she is a youth leader in a faith-based youth group and participates in different charity events. She is always in for planning out meetups with her friends/family. Her aim, both in her career and personally, is to put her talents and possession to use to help humanity especially to the most vulnerable: children. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+15. Administrative Support Coordinator, Afretec
+----------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/afretec-administrative.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+16. Mika Inamahoro
+-----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/inamahoro-mika.html
+Bio Available: Yes
+Contact Information:
+  Email: minamaho@andrew.cmu.edu
+  Phone: +250 786 183 378
+
+Biography:
+Mika Inamahoro joined CMU-Africa in 2016 as the administrative support for operation and executive assistant to the management team. She has since transitioned into her current role as the Student Services Support Officer who triages, follows up, and closes students non-academic requests for a smooth and rich experience during their stay at CMU-Africa. Inamahoro brings to the table extensive experience in finance, as well as administrative support in non-governmental organizations. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+17. Student Services Officer, CMU-Africa
+---------------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-student.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+18. Raissa Ineza
+---------------
+Basic Title: Education Network Program Manager, Afretec
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ineza-raissa.html
+Bio Available: Yes
+Contact Information:
+  Email: iraissa@andrew.cmu.edu
+
+Biography:
+Raissa Ineza is a dedicated and results-oriented project manager with a strong background in higher education. In her current role as education network program manager, she builds and maintains relationships with the African Engineering and Technology (Afretec) Network partners, ensuring ongoing communication to keep network activities aligned with timelines and budgets. Previously, she played an instrumental role at the University of Global Health Equity (UGHE), an initiative of Partners in Health, where she contributed to the successful launch and operation of its northern Rwanda campus. She later advanced to serve as executive assistant to the Deputy Vice Chancellor of Administrative and Financial Affairs, where she gained extensive project management experience that significantly supported the university's operational successes. Ineza holds a bachelor’s degree in international business administration with a focus in marketing from the United States International University and is currently completing her MBA from the same institution. Known for her positivity and tireless drive, she consistently motivates her team to pursue excellence. Her strengths lie in building cohesive cross-functional teams and uniting diverse expertise to achieve ambitious goals while fostering growth across all levels of an organization. Outside of work, Ineza enjoys traveling, exploring culinary arts, and reading about women’s empowerment. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+19. Igor Iradukunda
+------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/iradukunda-igor.html
+Bio Available: Yes
+Contact Information:
+  Email: iiraduku@andrew.cmu.edu
+
+Biography:
+Igor Iradukunda is a real estate professional holding a bachelor’s degree in finance from the University of North Georgia. Since his return to Rwanda upon graduation in 2016, Igor has worked in various areas of the real estate service industry. He started his career at Century Real estate ltd, a leading estate agency based in Rwanda. Afterwards, he transitioned to facility management managing the facilities of Cogebanque Plc, one of the commercial banks in Rwanda. Recently, he was part of the facility management team at Green Space Ltd prior to joining CMU-Africa. Igor has been involved in various organizations as a board member including the Breast Cancer Initiative East Africa Inc and the Ngororero Mining Company. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+20. Facilities Manager, CMU-Africa
+---------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-facilities.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+21. Rosine Kamahoro
+------------------
+Basic Title: Associate Director of Admissions, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kamahoro-rosine.html
+Bio Available: Yes
+Contact Information:
+  Email: rkamahor@andrew.cmu.edu
+  Phone: +250 788 483 491
+
+Biography:
+Rosine Kamahoro is passionate about education and capacity development. She has extensive experience in development, communication, and technology and holds a master’s degree in international studies with a major in development cooperation. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+22. Amandine Kayizari
+--------------------
+Basic Title: Techskills Marketplace Program Manager, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kayizari-amandine.html
+Bio Available: Yes
+Contact Information:
+  Email:  akayizar@andrew.cmu.edu
+
+Biography:
+Amandine Kayizari is a seasoned talent acquisition and stakeholder management professional with seven years of experience in the field. With a background in business administration, she excels at building strong relationships and ensuring the right people are in the right roles to drive success. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+23. Lucy-Anna Kelly
+------------------
+Basic Title: Student Success Co-Curricular Manager, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kelly-lucyanna.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+24. Deogratius Kiggude
+---------------------
+Basic Title: Program Manager, the Upanzi Network, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kiggude-deogratius.html
+Bio Available: Yes
+Contact Information:
+  Email: dkiggude@andrew.cmu.edu
+  Phone: +250 796 150 242
+
+Biography:
+Deogratius Kiggudde is a distinguished professional with a wide humanitarian and development program management background, starting off in civil construction residential households and roads in Uganda, and then moving into the open data and infrastructure ecosystem where he interacted with multiple digital public goods, and infrastructure projects across Africa. Before joining Carnegie Mellon University Africa, Kiggudde served as the senior program manager for technology and implementation at the Humanitarian OpenStreetMap Team (HOT) in the Eastern and Southern Africa Hub. In this role,Kiggudde was crucial in planning, strategizing, coordinating, and overseeing the implementation of both remote and field open data projects and programs, ensuring open data is acquired, integrated, and used most effectively and efficiently across multiple humanitarian and development organizations, governments, and communities across Africa. His involvement with HOT began in 2015, where he initially contributed as a data collector and team leader for the Mapping Financial Inclusion project. Deogratius holds a bachelor of science degree in quantity surveying, a postgraduate diploma in monitoring and evaluation and a PMI project management professional certificate. His professional journey is underscored by his enthusiasm for open data infrastructure, agriculture, construction, and the integration of open technology in these domains. Throughout his career, Kiggudde has gained extensive experience in managing projects across Africa in the humanitarian and development sectors with partners that include the World Bank, USAID, UNHCR, and UNDP particularly emphasizing community digital capacitation and skills growth. Over the years, Kiggudde has led and been involved in various community digital capacitation initiatives that focused on enhancing digital literacy and building technical skills within communities across Africa including countries like Zambia, Kenya, Madagascar, Zimbabwe, and Ethiopia, thereby empowering youth and fostering sustainable development through the use of open data. In addition to his professional work, Kiggudde is also an entrepreneur and a vibrant farmer, bringing a unique perspective and a wealth of practical knowledge to his roles. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+25. Mara Kudrick
+---------------
+Basic Title: Senior Director of Development, College of Engineering, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/kudrick-mara.html
+Bio Available: Yes
+Contact Information:
+  Email: kmara@cmu.edu
+  Phone: 412.268.2977
+
+Biography:
+Mara Kudrick is an experienced higher education professional with nearly two decades of proven success in alumni relations, student engagement, and major gift fundraising. In her current role, she works closely with the dean of the College of Engineering to garner support for the top strategic priorities for the College of Engineering at Carnegie Mellon University.  In addition to her college-based role, Kudrick focuses on fundraising and advancement strategy for CMU-Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+26. Polycarp Laurent
+-------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/laurent-polycarp.html
+Bio Available: Yes
+Contact Information:
+  Email: plaurent@andrew.cmu.edu
+  Phone: +250 791 446 213
+
+Biography:
+Polycarp Laurent is joining the CMU-Africa team as a data center engineer, holding a bachelor’s degree in computer engineering. He is a technology enthusiast who is highly experienced in IT data center technologies, network and systems engineering, and has solid hands-on experience in designing deploying, testing and troubleshooting of complex computing environments such as IP networks, security devices (firewalls) and Linux servers across multiple vendors such as Cisco, Juniper, Fortigate, PaloAlto, Mikrotik, Huawei, and HP. Over a number of years, Laurent has been trusted to work with some of the most sensitive and confidential datacenters in Tanzania such as at Sportpesa LTD and the Ministry of Health in Tanzania. He is looking forward to becoming a valuable member of the IT department at CMU-Africa. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+27. Data Center Engineer, CMU-Africa
+-----------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-data.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+28. Sandra Malaika
+-----------------
+Basic Title: Associate Director of Impact, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/malaika-sandra.html
+Bio Available: Yes
+Contact Information:
+  Email: smalaika@andrew.cmu.edu
+
+Biography:
+Sandra Malaika boasts a career spanning over a decade in international development program management. Before joining CMU-Africa, she steered economic and governance initiatives at the Foreign and Commonwealth Development Office, showcasing her adaptability in navigating the complexities of global development. Notably, Malaika played a pivotal role in the inception and expansion of the Mastercard Foundation Scholars at CMU-Africa, a testament to her strategic acumen. Her contributions have driven positive change and yielded impactful results for both the Scholars and CMU-Africa. An unwavering passion for transformative education and leadership is at the core of Sandra’s professional journey. Her vision extends beyond the confines of conventional success, aiming to create lasting and meaningful impacts. Responsibilities: Collaborate with relevant stakeholders to ensure continued progress and alignment with CMU-Africa’s mission Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+29. Maria Mayanja
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mayanja-maria.html
+Bio Available: Yes
+Contact Information:
+  Email: mmayanja@andrew.cmu.edu
+  Phone: +250 785 527 562
+
+Biography:
+Maria Mayanja is the entrepreneurship program manager at Carnegie Mellon University Africa. Through the Industry Innovation Lab (IIL), Mayanja supports CMU-Africa students and alumni to accelerate the launch of their companies, develop their products, and grow their technology business ventures. She manages the day-to-day operations of the university’s incubator and the application and selection process of entrepreneurs. She connects entrepreneurs with resources, advisors, and mentors and advises entrepreneurs in the process of developing their businesses. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+30. Program Manager, CMU-Africa
+------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-program.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+31. Thomas McManus
+-----------------
+Basic Title: Instructional Teaching and Learning Specialist, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mcmanus-thomas.html
+Bio Available: Yes
+Contact Information:
+  Email: tmcmanus@andrew.cmu.edu
+
+Biography:
+With a doctorate in educational technology from the University of Texas at Austin and over 25 years of experience in higher education, Thomas Fox McManus has taught at both graduate and undergraduate levels at several higher education institutions across the globe. These include: Saginaw Valley State University in Michigan, the University of Oulu in Finland and the University of Shikoku in Japan. Through the years, he has cultivated a strong passion for collaborating with faculty members to improve program and course design, conduct impactful learning technology workshops, and implement effective teaching and learning techniques alongside advanced learning technologies. As the founding director of three different centers, namely the US Army War College, the University of St. Joseph, and Harrisburg University of Science and Technology, McManus has worked with professionals from diverse fields, ranging from humanities and social sciences to STEM and healthcare. His professional career has had an international and intercultural focus having lived in different countries such as the UK, Japan and Finland, which has given him a unique perspective on various cultures, traditions and languages. McManus has also taught English as a foreign language at both the secondary and undergraduate levels. One of his passions is traveling and exploring new places, along with his love for history, movies, reading, writing, and gaming. He cherishes the opportunity to meet new people and learn about different cultures. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+32. Flavia Mugire
+----------------
+Basic Title: Admissions and Enrollment Officer, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mugire-flavia.html
+Bio Available: Yes
+Contact Information:
+  Email: flavia@andrew.cmu.edu
+
+Biography:
+Flavia Mugire is the Admissions and Enrollment Officer at Carnegie Mellon University Africa. A member of the CMU-Africa community since 2012, Mugire began as an Admissions and Administration Officer working in the areas of procurement, administration, and logistics. She went on to become Admissions and Enrollment Coordinator responsible for overseeing operations related to the overall admissions process, where she managed and provided administrative support for the enrollment process, class scheduling, and students’ advisors. In her current position as Admissions and Enrollment Officer, Mugire oversees application verification, evaluation, assessment, and enrollment services. She monitors and communicates the status of all applicants in the application process, which includes verification of submitted documents and generating plagiarism reports. Mugire’s previous experience includes working for VSO and the Rwanda Civil Aviation Authority. She holds a B.A. in business administration from the Kigali Institute of Lay Adventists and an M.B.A. in sales and marketing from Edinburgh Napier University in the UK. With strategic skills and competencies in business administration mechanisms, procurement, logistics management, high-level customer service, and persuasive communication, Mugire is ready to provide thorough and efficient customer service to new students, partners, and faculty. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+33. Vicky Mugisha
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mugisha-vicky.html
+Bio Available: Yes
+Contact Information:
+  Email: vmugisha@andrew.cmu.edu
+  Phone: +250 783 406 842
+
+Biography:
+Vicky Mugisha is a dynamic and versatile business woman that thrives on helping others, making things happen, and going above and beyond with each task. Her passion lies in opportunities that help her grow and empower creative freedom. She is a big believer in continuous learning and enjoys listening to self-development podcasts and forming genuine connections. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+34. Executive Assistant, CMU-Africa
+----------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-executive.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+35. Fulgence Muhirwa
+-------------------
+Basic Title: Audio Visual Systems Engineer, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/muhirwa-fulgence.html
+Bio Available: Yes
+Contact Information:
+  Email: fmuhirwa@andrew.cmu.edu
+
+Biography:
+Fulgence Muhirwa is a passionate tech enthusiast and self-driven professional with expertise in networks, audiovisual systems, systems design, UI/UX design, software development, and project management. From 2018 to 2021, he served as a technical support engineer at the African Leadership University, where he led the IT team, handled equipment procurement, configured and monitored networks, and managed audiovisual systems for various spaces. He was also responsible for setting up campus access controls and CCTV systems at the new Kigali Innovation City campus. Prior to that, from 2016 to 2017, he worked as an IT assistant at Kigali Independent University, focusing on network monitoring, troubleshooting, and user support. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+36. Mukooza Peter Mukasa
+-----------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mukasa-mukooza.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+37. Lab Engineer, CMU-Africa
+---------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-lab.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+38. Stanley Mukasa
+-----------------
+Basic Title: Associate Director of Entrepreneurship, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mukasa-stanley.html
+Bio Available: Yes
+Contact Information:
+  Email: stanleym@andrew.cmu.edu
+
+Biography:
+Stanley Mukasa has close to a decade of experience in the design and management of entrepreneurship development programs. Prior to joining CMU, Mukasa was the programs lead for Entrepreneurship and Global Challenges Programs at the African Leadership UniversityStudent Ventures Program at the African Leadership University. He served as a member of the entrepreneurship faculty, head of entrepreneurship, and started the Business Incubation program at Davis College Akilah. Mukasa’s mission is to contribute to making Africa a better place through supporting entrepreneurs to create sustainable ventures that can produce decent jobs for today and for the future. On an average day off work, Mukasa connects with entrepreneurs as a coach and mentor, and enjoys connecting with key stakeholders within the entrepreneurship ecosystem. Driven by passion for entrepreneurial success, Mukasa supports entrepreneurs with business strategy, innovation, market analysis, and fundraising grounded in systems thinking, and design thinking approaches. Mukasa holds a Ph.D. in Business Administration from The Swiss Management Center with a focus on sustainable business practices and entrepreneurship, a Master’s Degree in Economic Policy Management from Makerere with a focus on entrepreneurship, and an iMBA specialization in Strategic Innovation from the University of Illinois. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+39. Mike Mulindwa Ssempa
+-----------------------
+Basic Title: Associate Director of Student Recruitment, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ssempa-mike.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+40. Irene Munene
+---------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/munene-irene.html
+Bio Available: Yes
+Contact Information:
+  Email: imunene@andrew.cmu.edu
+
+Biography:
+Irene Munene holds a bachelor’s degree in human resource management and is currently pursuing a graduate degree (MBA). She is an HR professional whose experience over the years has been in different sectors, including healthcare and higher education. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+41. Human Resources Officer, CMU-Africa
+--------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-human.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+42. Dan  Munyakazi Rwamugenza
+----------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/rwamugenza-dan.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+43. IT Support Engineer, CMU-Africa
+----------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-it.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+44. Patricia Musiime
+-------------------
+Basic Title: Program Manager for the TechSkills Marketplace Internship Program, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/musiime-patricia.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+45. Andrew Musoke
+----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/musoke-andrew.html
+Bio Available: Yes
+Contact Information:
+  Email: amusoke@andrew.cmu.edu
+
+Biography:
+Andrew Amstrong Musoke is a digital infrastructure specialist with over seven years of experience architecting and scaling cloud-native, secure systems across Africa. He holds a B.S. in Computer Science from Makerere University and an M.S. in Information Technology from Carnegie Mellon University Africa. At CMU‑Africa, Andrew applies industry best practices to build resilient CI/CD pipelines, hybrid cloud security, and software infrastructure capable of processing millions of requests. Previously, he has integrated open-source monitoring and threat-remediation tools into mid-sized fintech enterprise environments, bolstering cybersecurity and operational efficiency.Passionate about sustainable and resilient digital public infrastructure, Andrew is a co-lead of the Digital Identity Hackathon Africa — a continent-wide initiative engaging participants from Africa to develop digital ID use cases across sectors like agriculture, health, and finance. He also contributes to policy investigations within the Upanzi DPI Network on open-source DPI deployments in resource-constrained settings. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+46. Senior Research Engineer, CMU-Africa
+---------------------------------------
+Basic Title: Co-lead, African Digital ID Hackathon
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-senior.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+47. William Mutero
+-----------------
+Basic Title: Director of the Center for Inclusive Digital Transformation of Africa, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mutero-william.html
+Bio Available: Yes
+Contact Information:
+  Email: wmutero@andrew.cmu.edu
+
+Biography:
+William Mutero is the director of the Center for Inclusive Digital Transformation of Africa (CIDTA), bringing 15 years of impactful experience across consulting, medical, pharmaceutical, international civil society, and non-governmental organizations. With a versatile IT, operations, and leadership background, William is dedicated to fostering high-performing teams and driving Africa's transformation. Educated with a Bachelor of Business Management and Information Technology (Hons) Degree from the Catholic University in Zimbabwe, an MBA from the University of Reading’s Henley Business School, and various professional certifications in technology and project management, William seamlessly blends expertise with a passion for social impact. Contributes significantly to strategic planning and program direction for CIDTA, ensuring alignment with overarching strategic goals. Oversees implementation and evaluation of CIDTA programs at CMU Africa, focusing on the three strategic pillars of Teaching and Learning, Knowledge Creation, and Pathways to Opportunities. Manages interdisciplinary teams, providing coaching and mentoring and optimizing resource allocation. Cultivates relationships with external partners and represents CMU Africa within the Afretec network of universities. Project Management for Development Professionals Information Technology Infrastructure Library (ITIL). Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+48. Ramadhan Juma Mwatima
+------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mwatima-ramadhan.html
+Bio Available: Yes
+Contact Information:
+  Email: rmwatima@andrew.cmu.edu
+  Phone: +250 728 981 684
+
+Biography:
+Ramadhan Juma Mwatima is a full stack developer at Carnegie Mellon University Africa. An IT engineer with a background in systems administration and development, Mwatima designs and implements both front-end and back-end of all software systems used by the University. He also manages a group of students supporting the IT team as systems developers and conducts research on new technologies to advise the institution. Mwatima holds a B.Sc. in computer engineering and information technology from the University of Dar es Salaam in Tanzania, and an M.S. in information technology from Carnegie Mellon University. A CMU-Africa alumnus, he joined the staff in 2017 and is a central point for technical system support to all users, primarily new applicants, and current students. He is passionate about the automation of as many systems as possible to improve not only the students' work but also the growth of CMU-Africa. His current project involves digitizing and automating business processes. When on leave, Mwatima works with a local tech academy to help children in primary school to gain IT skills, specifically teaching programming. He enjoys the process of understanding the challenges that businesses face to provide sustainable and efficient solutions. When he is not in front of a screen, Mwatima enjoys running in the beautiful streets of Kigali and watching football. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+49. Full Stack Developer, CMU-Africa
+-----------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-full.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+50. Aline Kenza Ngira Nkugire
+----------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/nkugire-aline.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+51. Operations Support Coordinator, CMU-Africa
+---------------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-operations.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+52. Evariste Nsengumuremyi
+-------------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/nsengumuremyi-evariste.html
+Bio Available: Yes
+Contact Information:
+  Email: ensengum@andrew.cmu.edu
+
+Biography:
+Evariste Nsengumuremyi is a highly experienced professional in the field of project monitoring, evaluation, and research. He holds a B.S. in economics with a specialization in monetary economics from the University of Rwanda. Currently, he is pursuing a master's degree in gender and development studies at the University of Rwanda's Center for Gender Studies. Nsengumuremyi has an impressive array of certifications and qualifications, including being a certified Project Management Professional (PMP®) from the Project Management Institute (PMI) and holding a PRINCE2 Foundation Certificate in Project Management from PeopleCert and Axelos Global Best Practice. With over nine years of professional experience, he has held various roles such as a monitoring, evaluation, research, and learning officer for the Leaders in Teaching Program implemented by the University of Rwanda under the funding of the Mastercard Foundation. He has also served as an M&E expert for the Global Surgical Hub Rwanda, a collaborative project between the University of Rwanda and the University of Birmingham from April 2019 to June 2023. Prior to these positions, he worked as a monitoring and evaluation officer in the Ministry of Gender and Family Promotion (MIGEPROF) from April 2016 to April 2019. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+53. Academic Program Manager, CMU-Africa
+---------------------------------------
+Basic Title: Email
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-academic.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+54. Bernard Ntezimana
+--------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/ntezimana-bernard.html
+Bio Available: Yes
+Contact Information:
+  Email: bntezima@andrew.cmu.edu
+  Phone: +250 788 796 848
+
+Biography:
+Bernard Ntezimana (ACCA, MBA) is a member of the Association of Chartered Certified Accountants from United Kingdom (ACCA/UK), and holds a master’s degree in business administration with a specialization in accounting and finance, as well as a bachelor’s degree in accounting. Over the past 15 years, he has worked with various international and local organizations. Ntezimana worked as a grants specialist at Land O'Lakes Venture37/USAID Feed the Future, and before that, he worked as Senior Grants and Compliance Officer at Catholic Relief Services (CRS). He has also worked as finance and admin officer, grants accountant coordinator/accountant, as well as held other roles. He is passionate about business startups, and has been engaged in several mentoring and coaching programs in his career. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+55. Finance Officer, CMU-Africa
+------------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-finance.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+56. Elyse Nzayinambaho
+---------------------
+Basic Title: Learning Engineer for the EdTech Program
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/nzayinambaho-elyse.html
+Bio Available: Yes
+Contact Information:
+  Email: enzayina@andrew.cmu.edu
+
+Biography:
+With over five years of experience in EdTech, Nzayinambaho has been a driving force in leading transformative initiatives and product development. His proven success and expertise lie in launching engaging e-learning courses, implementing content localization processes, instructional design tools, and project management. This dedication stems from my passion for leveraging technology as a catalyst for innovation and operational excellence. He is deeply committed to contributing to the improvement of Africa’s education systems by integrating technology-enhanced learning (TEL) into course and instructional design. His focus is on developing online and hybrid courses that adopt a more technical-based approach, driven by the belief that technology in education can profoundly impact accessibility, quality, and the overall learning experience. Nzayinambaho enjoys staying technically adept, contributing to open-source projects, and fostering technological literacy through volunteer training programs. He holds a master’s degree in IT-information systems and a bachelor’s degree in business information systems from Bugema University, Uganda. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+57. Johnson Nziza
+----------------
+Basic Title: Associate Director - IT, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/nziza-johnson.html
+Bio Available: Yes
+Contact Information:
+  Email: johnsonn@andrew.cmu.edu
+
+Biography:
+Johnson Nziza is the associate director of IT at Carnegie Mellon University Africa and has nine years of experience at the institution. Nziza is responsible for CMU-Africa’s computing services policies and procedures clarification, high-level escalation of IT user support issues, design and planning for new IT infrastructure and software, and resource requests for new IT projects. Nziza holds a BTech in electrical and communications engineering from Moi University in Kenya and an MSc in information systems and technology (with merit) from the University of Liverpool. His professional career has yielded extensive experience in project management and information systems and his previous work experience includes MTN Rwanda and New Artel Rwanda where he was a satellite transmission and communications engineer. A man with a wide variety of interests, Nziza also enjoys classical literature, African history, sports, and Afro-Jazz. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+58. Marie-Ange Rukundo
+---------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/rukundo-marieange.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+59. Events Manager, CMU-Africa
+-----------------------------
+Basic Title: Phone
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/cmuafrica-events.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+60. Noella Marie Shema
+---------------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/shema-noella.html
+Bio Available: Yes
+Contact Information:
+  Email: africa-info@andrew.cmu.edu
+
+Biography:
+With a master’s degree in public administration, a master’s degree in project management, and a bachelor’s degree in management focused on public administration, Noella Marie Shema is well-equipped to contribute to our academic community. Shema’s career spans over seven years in academia and program coordination. At Kepler College-Rwanda, she excelled as an academic advisor and instructor, designing curricula, mentoring students, and collaborating with global teams to enhance educational delivery. Prior to this, she coordinated district-level programs at Educate Exchange, where she trained educators and fostered youth entrepreneurship. Her expertise includes: curriculum development, student coaching, cross-functional collaboration, project management, and data analysis.
+Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+62. Paul Swaga
+-------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/swaga-paul.html
+Bio Available: Yes
+Contact Information:
+  Email: pswaga@andrew.cmu.edu
+
+Biography:
+Paul Swaga has a master of science degree in mass communication from Jomo Kenyatta University of Agriculture and Technology and a bachelor of education degree from Makerere University. He served as head of content and capacity building at Gold Youth Development Agency, a South African based youth skills development organization with operations in Rwanda, Zambia, Zimbabwe, South Africa and Botswana from 2022 to 2024. Prior to that, he worked at Davis College Akilah as an instructor for English and leadership, program dean for English and leadership, co-academic director and campus president. Paul played a leading role in revamping career service systems at Davis College Akilah. He is also a member of the Career Mentor Pool of the Education Collaborative of Ashesi University which is building the capacity of universities across Africa to enable them to develop sustainable career service systems which enhance youth employability outcomes. Paul is passionate about youth empowerment, and he has been involved in the implementation of several skills development programs aimed at transforming the lives of the youth, especially those from vulnerable communities across Africa to enable them to attain their full potential and get access to decent jobs or create their own jobs through entrepreneurship ventures. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+64. Daphin Tona
+--------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/tona-daphin.html
+Bio Available: Yes
+Contact Information:
+  Email: dtona@andrew.cmu.edu
+
+Biography:
+Tona is a passionate computing enthusiast with a strong background in designing and developing software solutions tailored for African entrepreneurs. She has played a key role in several impactful EdTech projects, bringing both creativity and technical insight to her work. A proud graduate of the African Leadership University with a bachelor's degree in computer science, Tona was also selected as a 2023 Mandela Washington Fellow, a testament to her leadership and commitment to innovation. Tona is deeply passionate about closing the gender gap in tech. She actively mentors and empowers young women to pursue and thrive in technology careers, fostering growth through supportive and meaningful relationships. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+================================================================================
+
+66. Rosine Urujeni
+-----------------
+Basic Title: Director of External Relations, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/urujeni-rosine.html
+Bio Available: Yes
+Contact Information:
+  Email: rurujeni@andrew.cmu.edu
+
+Biography:
+Rosine Urujeni has over 12 years of leadership experience in the non-profit and public sectors. Notably, from 2018 to 2023, she played a pivotal role in establishing the Rwanda Cooperation Initiative, the country's development cooperation agency, and served as its Chief Operations Officer and Acting CEO. During her tenure, she significantly enhanced the agency's global visibility and pioneered South-South technical cooperation projects with partners in Africa and the Americas. Prior to her work with the Rwanda Cooperation Initiative, Rosine served as Chief of Staff to the Minister of Foreign Affairs and International Cooperation from 2017 to 2018. From 2011 to 2017, she led strategy and operations in Rwanda as the Country Director for Indego Africa, an American non-profit social enterprise dedicated to empowering African artisan women. Rosine holds a master’s degree in servant leadership from Viterbo University, a bachelor’s degree in law from Kigali Independent University, and has studied International Humanitarian Law and Human Rights at The Geneva Academy for Human Rights & Humanitarian Studies. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+================================================================================
+
+67. Honorine Uwicyubahiro
+------------------------
+Basic Title: Admissions and Enrollment Officer, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/uwicyubahiro-honorine.html
+Bio Available: Yes
+Contact Information:
+  Email: huwicyub@andrew.cmu.edu
+
+Biography:
+Honorine Uwicyubahiro brings over five years of experience in admissions, enrollment, and recruitment within higher education to her role. She specializes in optimizing the entire admissions lifecycle and implementing data-driven strategies to enhance student enrollment. Prior to this role, she served as the admissions lead at the African Leadership University, where she successfully drove initiatives to improve applicant experiences and yield through technology enhancements and process optimization. Her work combines strategic planning, project management, operational execution, and data-driven decision-making to achieve impactful results. Uwicyubahiro holds a Bachelor of Arts with honors in business management from Glasgow Caledonian University in the UK (undertaken at the African Leadership College in Mauritius) and is completing a master's degree in sustainable development practice for the education sector at Regis University in the US. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+68. Olive Uwimana
+----------------
+Basic Title: Administrative Support Coordinator-UDPGN Project, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/uwimana-olive.html
+Bio Available: Yes
+Contact Information:
+  Email: ouwimana@andrew.cmu.edu
+
+Biography:
+Olive Uwimana is an administrative support coordiator and holds a master’s degree in data science with specialization in econometrics and a bachelor’s degree in logistics and pperations. She has five years of experience in operations and administration, and her main contribution and experience has been with higher education institutions such as Kepler and recently African Leadership University (ALU). She is also passionate about data and discovering what more can be done with data and she also has some experience as a researcher. She is looking forward to utilizing her skills and experience to contribute in increasing the administrative efficiency of the Upanzi project team. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+69. Fils Uwitonze
+----------------
+Basic Title: Monitoring and Evaluation Analyst, CMU-Africa
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/uwitonze-fils.html
+Bio Available: Yes
+Contact Information:
+  Email: fuwitonz@andrew.cmu.edu
+
+Biography:
+With over 12 years of experience, Fils Uwitonze is a biostatistician and epidemiology specialist, who has successfully partnered with leading international organizations, including the United States Agency for International Development (USAID), United Nations Development Programme (UNDP), and various government entities to meet the needs of funding partners and align with strategic program outcomes. Uwitonze has a track record of leveraging his expertise in data collection, management, and analysis to elevate institutional research initiatives. At CMU-Africa, Uwitonze will focus on refining both qualitative and quantitative data collection methods, developing effective survey instruments, and upholding ethical data practices aligned with program objectives. His commitment to tracking beneficiary outcomes over time will facilitate the creation of a core data set that adheres to best practices in data governance. He is dedicated to elevating institutional research initiatives and supporting our mission of improving educational and programmatic outcomes. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+Additional Information:
+  • Skip to Content
+  • Menu
+  • Admissions
+  • Academics
+  • Research
+
+================================================================================
+
+70. Chipiwa Zimbwa
+-----------------
+Bio URL: https://www.africa.engineering.cmu.edu/about/contact/directory/bios/zimbwa-chipiwa.html
+Bio Available: Yes
+Contact Information:
+  Email: czimbwa@andrew.cmu.edu
+
+Biography:
+Chipiwa Zimbwa is a people-focused C-suite executive with extensive experience in both corporate and non-profit industries. Her experience in senior leadership roles spans financial management, corporate governance, and resource mobilization to deliver organizational goals in higher education, health, financial services, and professional services. Prior to joining CMU-Africa, Zimbwa held several leadership roles, including finance director with an NGO, commodities finance manager with a tea and coffee company, and senior finance business partner with a global bank. Throughout her career, Zimbwa has always been passionate about coaching, mentoring, and helping to empower others to become the best versions of themselves. Zimbwa holds a master of science in corporate governance, and a Higher National Diploma in accounting. She is also a fellow of the Association of Certified Chartered Accountants, UK. As chief operating officer, Zimbwa provides executive leadership to ensure CMU-Africa’s financial, administrative, and operational integrity. She oversees the budget and core operational areas including human resources, information technology, finance, business services and facilities, ensuring alignment with CMU-Africa and the College of Engineering’s strategic goals and business needs. She is accountable for the effective allocation of resources, enhancing consistency, efficiency and coordination across the administrative and financial operations that are critical to faculty, staff, and student success. Carnegie Mellon University Africa Regional ICT Center of Excellence Bldg Kigali Innovation City - Bumbogo BP 6150, Kigali, Rwanda X: @CMU_AfricaFacebook: @CMU.AfricaInstagram: @cmuafricaFlickr: CMU-AfricaYouTube: CMU-AfricaLinkedIn: Carnegie Mellon University Africa
+
+================================================================================
+
+
+SUMMARY STATISTICS
+====================
+Faculty: 29 total, 29 with detailed bios
+Special faculty: 4 total, 4 with detailed bios
+ESL instructors: 4 total, 4 with detailed bios
+Adjunct faculty: 6 total, 6 with detailed bios
+Affiliate faculty: 6 total, 6 with detailed bios
+Postdoctoral fellows: 8 total, 8 with detailed bios
+Staff: 71 total, 71 with detailed bios
+
+Overall: 128 total profiles, 128 with detailed bios
