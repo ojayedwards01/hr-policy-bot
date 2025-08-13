@@ -212,13 +212,34 @@ class EnterpriseResponseGenerator:
             platform=platform
         )
         
-        # Generate response
-        try:
-            response = await asyncio.to_thread(self.llm.invoke, prompt)
-            return response.content.strip()
-        except Exception as e:
-            logger.error(f"❌ LLM generation failed: {e}")
-            return "I apologize, but I encountered an error generating a response. Please try again or contact HR directly."
+        # Generate response with rate limit retry logic
+        max_retries = 3
+        retry_delay = 1.0
+        
+        for attempt in range(max_retries):
+            try:
+                response = await asyncio.to_thread(self.llm.invoke, prompt)
+                return response.content.strip()
+            except Exception as e:
+                error_str = str(e).lower()
+                
+                # Check for rate limit errors
+                if any(rate_limit_indicator in error_str for rate_limit_indicator in [
+                    'rate limit', '429', 'too many requests', 'quota exceeded', 'rate exceeded'
+                ]):
+                    if attempt < max_retries - 1:
+                        wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
+                        logger.warning(f"⚠️ Rate limit hit, waiting {wait_time}s before retry {attempt + 1}/{max_retries}")
+                        await asyncio.sleep(wait_time)
+                        continue
+                    else:
+                        logger.error(f"❌ Rate limit exceeded after {max_retries} retries")
+                        return "I'm experiencing high demand right now. Please wait a moment and try again."
+                
+                # For other errors, log and return generic message
+                logger.error(f"❌ LLM generation failed (attempt {attempt + 1}): {e}")
+                if attempt == max_retries - 1:
+                    return "I apologize, but I encountered an error generating a response. Please try again or contact HR directly."
 
     async def _format_for_platform(self, 
                                   response: str, 

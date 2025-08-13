@@ -4,6 +4,8 @@ import json
 import logging
 import asyncio
 import concurrent.futures
+import psutil
+import gc
 from pathlib import Path
 from threading import Thread
 from flask import Flask, request, jsonify, Response
@@ -27,10 +29,48 @@ app.logger.setLevel(logging.INFO)
 @app.route('/health', methods=['GET'])
 def health_check():
     """Simple health check endpoint for Docker healthchecks"""
-    return jsonify({
-        "status": "ok", 
-        "message": "HR Bot server is running"
-    }), 200
+    global faq_bot, initialization_status
+    
+    # Check if bot is properly initialized
+    if faq_bot is None:
+        return jsonify({
+            "status": "error",
+            "message": "Bot not initialized",
+            "initialization_status": initialization_status
+        }), 503
+    
+    # Check if bot components are working
+    try:
+        # Test basic functionality
+        test_result = faq_bot.get_version_info()
+        
+        # Add memory monitoring
+        process = psutil.Process()
+        memory_info = process.memory_info()
+        memory_mb = memory_info.rss / 1024 / 1024
+        
+        # Get system memory info
+        system_memory = psutil.virtual_memory()
+        
+        return jsonify({
+            "status": "ok", 
+            "message": "HR Bot server is running",
+            "bot_version": test_result,
+            "initialization_status": initialization_status,
+            "memory": {
+                "process_mb": round(memory_mb, 1),
+                "system_total_gb": round(system_memory.total / 1024 / 1024 / 1024, 1),
+                "system_available_gb": round(system_memory.available / 1024 / 1024 / 1024, 1),
+                "system_percent": system_memory.percent
+            }
+        }), 200
+    except Exception as e:
+        logger.error(f"Health check failed: {e}")
+        return jsonify({
+            "status": "error",
+            "message": "Bot health check failed",
+            "error": str(e)
+        }), 503
 
 # Add request logging middleware
 @app.before_request
@@ -47,6 +87,15 @@ def log_response_info(response):
 @app.errorhandler(Exception)
 def handle_exception(e):
     logger.error(f"💥 UNHANDLED EXCEPTION: {str(e)}", exc_info=True)
+    
+    # Check if this is a rate limit error
+    error_str = str(e).lower()
+    if any(rate_limit_indicator in error_str for rate_limit_indicator in [
+        'rate limit', '429', 'too many requests', 'quota exceeded', 'rate exceeded'
+    ]):
+        logger.warning("⚠️ Rate limit error detected - this should be handled by retry logic")
+        return jsonify({"error": "Rate limit exceeded", "message": "Please wait a moment and try again"}), 429
+    
     return jsonify({"error": "Internal server error", "details": str(e)}), 500
 
 # Global variables for integrations
@@ -115,6 +164,39 @@ def favicon():
     """Handle favicon requests to prevent 404 errors"""
     return "", 204  # No Content response
 
+@app.route("/api/memory/cleanup", methods=["POST"])
+def memory_cleanup():
+    """Force memory cleanup to prevent OOM"""
+    try:
+        # Force garbage collection
+        collected = gc.collect()
+        
+        # Get memory info before and after
+        process = psutil.Process()
+        before_memory = process.memory_info().rss / 1024 / 1024
+        
+        # Additional cleanup
+        gc.collect()
+        
+        after_memory = process.memory_info().rss / 1024 / 1024
+        memory_freed = before_memory - after_memory
+        
+        return jsonify({
+            "status": "success",
+            "message": f"Memory cleanup completed",
+            "garbage_collected": collected,
+            "memory_freed_mb": round(memory_freed, 1),
+            "current_memory_mb": round(after_memory, 1)
+        }), 200
+        
+    except Exception as e:
+        logger.error(f"Memory cleanup failed: {e}")
+        return jsonify({
+            "status": "error",
+            "message": "Memory cleanup failed",
+            "error": str(e)
+        }), 500
+
 @app.route("/api/status")
 def get_status():
     """Get the current status of the enterprise bot and integrations"""
@@ -134,9 +216,13 @@ def get_status():
 
 @app.route("/api/ask", methods=["POST"])
 def ask_question():
-    """Handle questions from the web interface"""
+    """Handle questions from the web interface with memory management"""
     import time
     start_time = time.time()
+    
+    # Memory monitoring and cleanup
+    process = psutil.Process()
+    initial_memory = process.memory_info().rss / 1024 / 1024  # MB
     
     # FORCE logging to work
     print("🔥 DEBUG: ask_question endpoint called!")
@@ -154,8 +240,21 @@ def ask_question():
         return jsonify({"error": "Question is required"}), 400
     
     try:
+        # Check memory before processing
+        if initial_memory > 1000:  # If over 1GB
+            logger.warning(f"⚠️ High memory usage before processing: {initial_memory:.1f}MB")
+            gc.collect()  # Force garbage collection
+        
         # Use fast_answer with the requested format
         result = faq_bot.fast_answer(question, platform=format_type)
+        
+        # Memory cleanup after processing
+        final_memory = process.memory_info().rss / 1024 / 1024  # MB
+        memory_used = final_memory - initial_memory
+        
+        if memory_used > 100:  # If used more than 100MB
+            logger.warning(f"⚠️ High memory usage for request: {memory_used:.1f}MB")
+            gc.collect()  # Force cleanup
         
         if result and "answer" in result:
             return jsonify({
@@ -177,6 +276,9 @@ def ask_question():
             "sources": [],
             "status": "error"
         }), 500
+    finally:
+        # Always cleanup memory
+        gc.collect()
 
 
 def _get_bot_response_sync(question: str) -> dict:

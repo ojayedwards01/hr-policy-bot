@@ -1,0 +1,79 @@
+# Document Sources Configuration
+# Format: type, path
+# Types: url, file
+# For files: use relative or absolute paths to PDF or TXT files
+# For URLs: use complete URLs starting with http:// or https://
+
+# PDF Files from documents folder (these will be mapped to URLs using PDF_TO_URL_MAP)
+file, ./documents/staff-handbook-africa.pdf
+file, ./documents/fwa-guidelines.pdf
+file, ./documents/offboarding-checklist-employee.pdf
+file, ./documents/onboarding-checklist-cmu-africa.pdf
+file, ./documents/hiring-process-2024.pdf
+file, ./documents/travel-guidelines-dec-2024.pdf
+file, ./documents/faq.pdf
+file, ./documents/2025-payroll-rwanda.pdf
+file, ./documents/quick-guide-mobile-installation-instructions.pdf
+file, ./documents/onboarding.pdf
+file, ./documents/quick-guide-self-identification-instructions-disability.pdf
+file, ./documents/update-contact-info.pdf
+file, ./documents/quick-guide-change-legal-name.pdf
+file, ./documents/quick-guide-change-preferred-name.pdf
+file, ./documents/change-government-id.pdf
+file, ./documents/change-work-space.pdf
+file, ./documents/Student Handbook .pdf
+file, ./documents/quick-guide-payment-elections.pdf
+file, ./documents/quick-guide-review-pay-slip.pdf
+file, ./documents/submit-resignation.pdf
+file, ./documents/career-profile.pdf
+file, ./documents/quick-guide-time-tracking-employees.pdf
+file, ./documents/quick-guide-dependent-tuition-benefits.pdf
+file, ./documents/quick-guide-employee-tuition-benefits.pdf
+file, ./documents/quick-guide-designate-beneficiary.pdf
+file, ./documents/quick-guide-change-benefits.pdf
+
+# CMU Policy URLs
+url, https://www.cmu.edu/policies/bylaws/index.html
+url, https://www.cmu.edu/policies/faculty/appointment-and-tenure-policy.html
+url, https://www.cmu.edu/policies/faculty/appointments-research-faculty.html
+url, https://www.cmu.edu/policies/faculty/appointments-special-faculty.html
+url, https://www.cmu.edu/policies/faculty/appointments-teaching-track.html
+url, https://www.cmu.edu/policies/faculty/consulting-by-faculty.html
+url, https://www.cmu.edu/policies/faculty/emeritus-faculty.html
+url, https://www.cmu.edu/policies/faculty/faculty-leaves.html
+url, https://www.cmu.edu/policies/faculty/faculty-parental-leave.html
+url, https://www.cmu.edu/policies/faculty/membership-dues-in-professional-organizations.html
+url, https://www.cmu.edu/policies/faculty/retirement-options-for-tenured-faculty.html
+url, https://www.cmu.edu/policies/faculty/special-service-payments-for-internal-consulting.html
+url, https://www.cmu.edu/policies/index.html
+
+# CMU Africa URLs
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/processes-procedures.html
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/contact-information.html
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/research-projects.html
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/request-services/index.html
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/it-equipment/index.html
+url, https://www.africa.engineering.cmu.edu/faculty-and-staff/feedback.html
+
+# Additional CMU URLs
+url, https://www.cmu.edu/faculty-senate/faculty-handbook/organization.html
+url, https://engineering.cmu.edu/afretec/index.html
+url, https://www.cmu.edu/hr/benefits/international/africa.html
+url, https://engineering.cmu.edu/faculty-staff/policies-procedures/faculty-policies.html#leaves-of-absence:-personal,-family,-professional,-parental
+url, https://engineering.cmu.edu/faculty-staff/policies-procedures/faculty-parental-teaching-release.html
+url, https://www.cmu.edu/computing/services/ai/index.html
+
+# Local Text/HTML/CSV Files
+file, ./documents/cmu_africa_complete_profiles.txt
+file, ./documents/complete_people_with_profiles.csv
+file, ./documents/faculty_handbook.html
+
+# Additional CSV files
+file, ./documents/CMU_Africa_Documents.csv
+
+# Additional HTML files  
+file, ./documents/benefits.html
+file, ./documents/Africa - Human Resources - Carnegie Mellon University.html
+file, ./documents/Disability Insurance - Human Resources - Carnegie Mellon University.html
+file, ./documents/Employee HR Resources - Human Resources - Carnegie Mellon University.html
+file, ./documents/Student Workers - Human Resources - Carnegie Mellon University.html

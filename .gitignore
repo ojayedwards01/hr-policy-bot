@@ -1,12 +1,6 @@
 /.venv
-/sources
-/vector_store
-.env
-*.pyc
-sources.txt
-/bot/
-__pycache__/
 
+.env
 # Large files and model caches
 /model_cache/
 model_cache/
@@ -16,8 +10,3 @@ model_cache/
 **/*.quantized
 
 # Vector stores (these can be rebuilt)
-/src/store/
-/src/store_backup/
-**/*.faiss
-**/*.pkl
-lambda_deployment.zip
