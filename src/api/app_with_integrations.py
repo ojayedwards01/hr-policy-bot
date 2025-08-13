@@ -28,7 +28,7 @@ app.logger.setLevel(logging.INFO)
 # Add health endpoint for Docker container health checks
 @app.route('/health', methods=['GET'])
 def health_check():
-    """Simple health check endpoint for Docker healthchecks"""
+    """Fast health check endpoint for Docker healthchecks"""
     global faq_bot, initialization_status
     
     # Check if bot is properly initialized
@@ -44,25 +44,16 @@ def health_check():
         # Test basic functionality
         test_result = faq_bot.get_version_info()
         
-        # Add memory monitoring
+        # Fast memory check (only process memory, skip system)
         process = psutil.Process()
-        memory_info = process.memory_info()
-        memory_mb = memory_info.rss / 1024 / 1024
-        
-        # Get system memory info
-        system_memory = psutil.virtual_memory()
+        memory_mb = process.memory_info().rss / 1024 / 1024
         
         return jsonify({
             "status": "ok", 
             "message": "HR Bot server is running",
             "bot_version": test_result,
             "initialization_status": initialization_status,
-            "memory": {
-                "process_mb": round(memory_mb, 1),
-                "system_total_gb": round(system_memory.total / 1024 / 1024 / 1024, 1),
-                "system_available_gb": round(system_memory.available / 1024 / 1024 / 1024, 1),
-                "system_percent": system_memory.percent
-            }
+            "memory_mb": round(memory_mb, 1)
         }), 200
     except Exception as e:
         logger.error(f"Health check failed: {e}")
@@ -216,13 +207,9 @@ def get_status():
 
 @app.route("/api/ask", methods=["POST"])
 def ask_question():
-    """Handle questions from the web interface with memory management"""
+    """Handle questions from the web interface with lightweight memory management"""
     import time
     start_time = time.time()
-    
-    # Memory monitoring and cleanup
-    process = psutil.Process()
-    initial_memory = process.memory_info().rss / 1024 / 1024  # MB
     
     # FORCE logging to work
     print("🔥 DEBUG: ask_question endpoint called!")
@@ -240,21 +227,20 @@ def ask_question():
         return jsonify({"error": "Question is required"}), 400
     
     try:
-        # Check memory before processing
-        if initial_memory > 1000:  # If over 1GB
-            logger.warning(f"⚠️ High memory usage before processing: {initial_memory:.1f}MB")
-            gc.collect()  # Force garbage collection
+        # Lightweight memory check (only if over 1.5GB)
+        process = psutil.Process()
+        current_memory = process.memory_info().rss / 1024 / 1024  # MB
+        
+        if current_memory > 1500:  # Only check if over 1.5GB
+            logger.warning(f"⚠️ High memory: {current_memory:.1f}MB - forcing cleanup")
+            gc.collect()
         
         # Use fast_answer with the requested format
         result = faq_bot.fast_answer(question, platform=format_type)
         
-        # Memory cleanup after processing
-        final_memory = process.memory_info().rss / 1024 / 1024  # MB
-        memory_used = final_memory - initial_memory
-        
-        if memory_used > 100:  # If used more than 100MB
-            logger.warning(f"⚠️ High memory usage for request: {memory_used:.1f}MB")
-            gc.collect()  # Force cleanup
+        # Quick memory cleanup only if needed
+        if current_memory > 1200:  # Only cleanup if over 1.2GB
+            gc.collect()
         
         if result and "answer" in result:
             return jsonify({
@@ -276,9 +262,6 @@ def ask_question():
             "sources": [],
             "status": "error"
         }), 500
-    finally:
-        # Always cleanup memory
-        gc.collect()
 
 
 def _get_bot_response_sync(question: str) -> dict:
