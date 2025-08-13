@@ -79,6 +79,7 @@ COPY .env .env
 
 # Copy only essential application files
 COPY run_app.py .
+COPY wsgi.py .
 COPY src/ ./src/
 COPY documents/ ./documents/
 # Include debug tools
@@ -88,7 +89,8 @@ RUN mkdir -p ./vectorstore
 
 # Create non-root user for security
 RUN useradd --create-home --shell /bin/bash appuser && \
-    chown -R appuser:appuser /app
+    chown -R appuser:appuser /app && \
+    chown -R appuser:appuser /tmp/model_cache
 USER appuser
 
 # Expose port
@@ -98,11 +100,8 @@ EXPOSE 8080
 HEALTHCHECK --interval=30s --timeout=5s --start-period=30s --retries=3 \
   CMD curl -f http://localhost:${PORT:-8080}/health || exit 1
 
-# # Run the application
-# CMD ["python", "run_app.py"]
-
-# In the builder stage, add:
+# Install gunicorn for production
 RUN pip install gunicorn
 
-# At the bottom, change CMD to:
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "--workers", "2", "--timeout", "120", "src.api.app_with_integrations:app"]
+# Run the application with gunicorn (production-ready)
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "--workers", "2", "--timeout", "120", "--preload", "wsgi:app"]
